@@ -1,0 +1,1001 @@
+incident_id,opened_at,resolved_at,short_description,category,priority,assignment_group,state,reopen_count
+INC0001,2025-11-11 15:39,2025-11-12 13:30,Printer paper jam recurring,hardware,2-High,Desktop Support,Closed,0
+INC0002,2026-01-17 23:27,2026-01-18 7:52,Adobe Acrobat license expired error,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0003,2025-12-28 12:56,2025-12-30 19:39,Guest WiFi authentication failing,Network,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0004,2025-12-06 0:04,2025-12-08 14:49,Firewall blocking required application port,Network,3-Moderate,Application Support - CRM,Closed,0
+INC0005,2026-03-04 11:33,2026-03-05 6:30,Guest WiFi authentication failing,Network,3-Moderate,Network Operations,Resolved,1
+INC0006,2025-12-06 5:26,2025-12-07 11:47,Antivirus blocking legitimate application,Software,4-Low,Security Operations,Resolved,0
+INC0007,2025-12-13 4:25,2025-12-30 6:35,Failover cluster node not rejoining,Database,4-Low,Database Administration,Closed,3
+INC0008,2026-02-21 14:06,2026-02-22 0:15,Tablespace reaching capacity threshold,Database,1-Critical,End User Computing,Closed,1
+INC0009,2026-03-17 13:20,,Docking station not detecting external display,Hardware,2-High,Storage & Backup,On Hold,0
+INC0010,2026-04-10 19:46,,Cannot reach internal SharePoint site,Network,3-Moderate,End User Computing,On Hold,0
+INC0011,2026-02-18 0:00,2026-02-18 11:29,Laptop will not power on,Hardware,2-High,Windows Server Team,Resolved,0
+INC0012,2025-12-21 11:07,2025-12-22 18:40,Monitor flickering intermittently,Hardware,4-Low,End User Computing,Resolved,0
+INC0013,2025-12-13 5:15,2025-12-16 2:58,Chrome browser freezing on launch,Software,3-Moderate,Linux Server Team,Closed,0
+INC0014,2025-12-05 9:09,2025-12-02 12:37,Unable to connect to corporate WiFi,Network,3-Moderate,Network Operations,Closed,1
+INC0015,2025-12-03 8:24,2025-12-04 2:52,Firewall blocking required application port,Network,2-High,Cloud Infrastructure,Resolved,0
+INC0016,2026-04-08 11:46,2026-04-11 10:45,Hard drive making clicking noise,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0017,2025-12-15 20:06,2025-12-16 8:56,Excel file corrupted on save,Software,3-Moderate,Service Desk - Tier 1,Closed,3
+INC0018,2025-11-24 1:03,2025-11-28 15:42,Laptop will not power on,Hardware,4-Low,End User Computing,Resolved,0
+INC0019,2026-03-23 20:43,2026-03-28 6:29,Scheduled maintenance plan did not run,Database,3-Moderate,Desktop Support,Resolved,0
+INC0020,2025-11-22 7:41,,Laptop will not power on,Hardware,3-Moderate,End User Computing,On Hold,0
+INC0021,2026-01-09 3:43,,Excel file corrupted on save,Software,1-Critical,End User Computing,On Hold,0
+INC0022,2026-02-01 6:20,2026-02-03 9:12,Keyboard keys unresponsive,Hardware,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0023,2026-02-20 8:48,2026-02-22 5:16,Intermittent packet loss to data center,Network,4-Low,Security Operations,Closed,1
+INC0024,2025-12-20 11:49,2025-12-22 13:41,Cannot reach internal SharePoint site,Network,3-Moderate,Storage & Backup,Closed,0
+INC0025,2025-11-21 22:26,2025-11-23 17:59,Teams audio not working in meetings,Software,4-Low,Application Support - CRM,Resolved,0
+INC0026,2025-10-23 10:31,2025-10-26 9:13,Webcam not recognized by system,Hardware,3-Moderate,Application Support - CRM,Closed,0
+INC0027,2025-11-20 12:10,2025-11-25 5:44,Outlook crashing on startup,Software,4-Low,Storage & Backup,Resolved,0
+INC0028,2026-04-10 14:27,2026-04-11 8:20,VPN client disconnecting frequently,Software,3-Moderate,Security Operations,Resolved,0
+INC0029,2026-03-14 11:36,2026-03-16 22:00,Firewall blocking required application port,Network,3-Moderate,Network Operations,Resolved,1
+INC0030,2025-12-05 0:53,,Production DB replication lag exceeding SLA,Database,4-Low,Windows Server Team,On Hold,0
+INC0031,2026-02-24 7:31,2026-02-26 15:18,Cannot reach internal SharePoint site,Network,4-Low,Network Operations,Closed,2
+INC0032,2025-12-22 15:50,2025-12-23 7:14,Unable to connect to corporate WiFi,Net,3-Moderate,Linux Server Team,Resolved,0
+INC0033,2025-12-25 20:50,2025-12-26 2:12,Windows update failing repeatedly,Software,1-Critical,Application Support - ERP,Resolved,0
+INC0034,2026-03-17 0:33,2026-03-15 19:35,Windows update failing repeatedly,Software,3-Moderate,Cloud Infrastructure,Closed,0
+INC0035,2026-01-22 15:12,2026-01-24 22:18,Network printer unreachable from VLAN,Network,3-Moderate,Network Operations,Closed,1
+INC0036,2025-10-27 11:49,2025-10-28 11:30,Antivirus blocking legitimate application,Software,2-High,Network Operations,Closed,0
+INC0037,2026-04-14 2:05,2026-04-16 22:32,Scheduled maintenance plan did not run,Database,2-High,Database Administration,Resolved,0
+INC0038,2026-02-08 6:46,2026-02-11 17:35,Mouse cursor freezing,Hardware,4-Low,Network Operations,Resolved,1
+INC0039,2025-12-12 1:55,2025-12-16 20:35,Index corruption detected on customer table,Database,3-Moderate,Desktop Support,Closed,0
+INC0040,2025-11-21 0:55,2025-11-22 7:05,Load balancer reporting unhealthy nodes,Network,4-Low,Network Operations,Closed,0
+INC0041,2025-10-26 13:01,,Connection pool exhaustion alerts,Database,4-Low,Database Administration,On Hold,0
+INC0042,2026-04-03 0:46,,Guest WiFi authentication failing,Network,3-Moderate,Database Administration,On Hold,0
+INC0043,2026-01-06 6:12,2026-01-06 23:47,VPN client disconnecting frequently,Software,2-High,End User Computing,Closed,0
+INC0044,2026-01-13 23:28,2026-01-15 16:15,Slow query performance on reporting DB,Database,3-Moderate,Database Administration,Closed,2
+INC0045,2026-02-04 11:52,2026-02-10 3:09,Production DB replication lag exceeding SLA,Database,2-High,Storage & Backup,Closed,0
+INC0046,2025-11-13 23:05,2025-11-14 7:27,Headset microphone not working,Hardware,2-High,End User Computing,Closed,0
+INC0047,2025-12-22 7:49,2025-12-23 5:59,Antivirus blocking legitimate application,Software,2-High,Linux Server Team,Closed,0
+INC0048,2026-03-28 4:01,2026-03-30 14:07,Hard drive making clicking noise,Hardware,3-Moderate,Service Desk - Tier 1,Resolved,0
+INC0049,2026-01-01 1:55,2026-01-03 19:43,Docking station not detecting external display,Hardware,4-Low,Linux Server Team,Closed,1
+INC0050,2025-12-24 8:02,2026-01-10 5:26,Connection pool exhaustion alerts,Database,4-Low,Windows Server Team,Resolved,0
+INC0051,2026-03-26 16:10,2026-03-28 12:56,Deadlock errors on orders table,Database,2-High,Desktop Support,Closed,0
+INC0052,2026-03-09 23:25,2026-03-14 4:12,Connection pool exhaustion alerts,Database,2-High,Database Administration,Closed,0
+INC0053,2026-03-08 5:32,2026-03-09 4:17,Load balancer reporting unhealthy nodes,Network,3-Moderate,Storage & Backup,Closed,0
+INC0054,2026-03-19 8:49,2026-03-19 23:15,VPN client disconnecting frequently,Software,3-Moderate,Application Support - ERP,Resolved,0
+INC0055,2026-03-07 4:12,2026-03-05 23:28,SAP GUI timeout errors,Software,4-Low,Application Support - ERP,Resolved,0
+INC0056,2025-11-04 10:31,2025-11-05 15:40,Headset microphone not working,Hardware,4-Low,End User Computing,Closed,0
+INC0057,2026-03-25 7:07,2026-03-29 22:20,Antivirus blocking legitimate application,Software,4-Low,End User Computing,Resolved,0
+INC0058,2025-12-02 2:21,,Printer paper jam recurring,Hardware,3-Moderate,Desktop Support,On Hold,0
+INC0059,2026-01-18 5:29,2026-01-18 11:19,SAP GUI timeout errors,Software,1-Critical,Service Desk - Tier 1,Closed,0
+INC0060,2025-11-30 3:54,2025-12-02 5:21,Slow network performance in HQ floor 3,Network,3-Moderate,Service Desk - Tier 1,Resolved,0
+INC0061,2026-01-08 21:49,2026-01-10 13:25,Guest WiFi authentication failing,Network,3-Moderate,Cloud Infrastructure,Closed,0
+INC0062,2026-02-11 10:37,2026-02-15 17:28,Keyboard keys unresponsive,Hardware,4-Low,Database Administration,Resolved,0
+INC0063,2026-01-26 5:36,2026-01-27 15:44,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Network Operations,Resolved,0
+INC0064,2025-10-29 21:01,2025-10-31 1:42,Load balancer reporting unhealthy nodes,Network,3-Moderate,Security Operations,Resolved,0
+INC0065,2026-03-18 15:16,2026-03-20 10:50,Index corruption detected on customer table,Database,2-High,Network Operations,Closed,2
+INC0066,2026-01-09 23:22,2026-01-12 17:48,VPN client disconnecting frequently,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0067,2026-01-19 10:46,2026-01-22 5:46,Slow network performance in HQ floor 3,Network,3-Moderate,Network Operations,Closed,0
+INC0068,2025-10-23 5:57,2025-11-14 13:45,Scheduled maintenance plan did not run,Database,4-Low,Application Support - ERP,Closed,0
+INC0069,2026-03-07 4:34,2026-03-17 12:51,Slow query performance on reporting DB,Database,3-Moderate,Database Administration,Closed,0
+INC0070,2026-02-14 8:26,2026-02-14 11:45,Outlook crashing on startup,Software,1-Critical,Linux Server Team,Closed,0
+INC0071,2026-02-20 18:35,2026-02-25 4:25,Windows update failing repeatedly,Software,4-Low,End User Computing,Closed,0
+INC0072,2026-02-22 7:25,2026-02-23 17:47,Long running query blocking transactions,Database,1-Critical,Database Administration,Closed,0
+INC0073,2025-11-20 0:24,2025-11-20 12:38,Headset microphone not working,HW,2-High,End User Computing,Closed,0
+INC0074,2026-02-23 14:51,2026-02-23 23:27,PowerBI report failing to refresh,Software,3-Moderate,Desktop Support,Closed,0
+INC0075,2026-03-05 19:05,,Cannot reach internal SharePoint site,Network,2-High,Network Operations,On Hold,0
+INC0076,2025-12-31 10:52,2026-01-05 9:32,Connection pool exhaustion alerts,Database,2-High,Security Operations,Closed,0
+INC0077,2026-04-16 1:58,2026-04-18 0:50,Headset microphone not working,Hardware,3-Moderate,Desktop Support,Resolved,0
+INC0078,2025-12-21 17:43,2025-12-23 6:20,Adobe Acrobat license expired error,Software,4-Low,Cloud Infrastructure,Resolved,0
+INC0079,2026-01-28 4:31,2026-02-01 11:42,Teams audio not working in meetings,Software,4-Low,Cloud Infrastructure,Closed,0
+INC0080,2025-12-05 13:26,2025-12-05 20:27,Hard drive making clicking noise,Hardware,1-Critical,Service Desk - Tier 1,Resolved,0
+INC0081,2026-03-02 7:20,2026-03-04 8:12,Firewall blocking required application port,Network,3-Moderate,Service Desk - Tier 1,Resolved,1
+INC0082,2026-03-31 17:26,2026-04-01 11:27,Unable to connect to corporate WiFi,Network,2-High,Network Operations,Closed,0
+INC0083,2026-01-02 19:02,2026-01-05 15:34,Keyboard keys unresponsive,Hardware,3-Moderate,End User Computing,Closed,0
+INC0084,2026-03-05 18:56,2026-03-20 8:56,Scheduled maintenance plan did not run,Database,4-Low,Storage & Backup,Closed,0
+INC0085,2026-04-05 10:07,2026-04-05 15:57,Laptop will not power on,Hardware,2-High,Storage & Backup,Closed,0
+INC0086,2026-02-07 8:47,2026-02-07 17:06,Antivirus blocking legitimate application,Software,2-High,Service Desk - Tier 1,Resolved,1
+INC0087,2025-11-13 2:17,2025-11-13 11:14,Adobe Acrobat license expired error,Software,3-Moderate,Service Desk - Tier 1,Resolved,0
+INC0088,2026-01-23 5:28,2026-01-25 3:27,Antivirus blocking legitimate application,Software,3-Moderate,Service Desk - Tier 1,Resolved,0
+INC0089,2026-01-23 18:13,2026-01-27 14:36,Slow network performance in HQ floor 3,Network,4-Low,Network Operations,Closed,0
+INC0090,2025-12-24 21:28,2025-12-26 0:20,Excel file corrupted on save,Software,3-Moderate,Security Operations,Closed,0
+INC0091,2026-04-01 10:03,2026-04-04 3:01,Adobe Acrobat license expired error,Software,4-Low,End User Computing,Closed,0
+INC0092,2025-11-10 12:01,2025-11-17 18:41,Long running query blocking transactions,Database,4-Low,Database Administration,Closed,1
+INC0093,2026-02-16 8:06,,Tablespace reaching capacity threshold,Database,3-Moderate,Database Administration,On Hold,0
+INC0094,2025-12-29 17:38,2026-01-01 2:27,PowerBI report failing to refresh,Software,3-Moderate,End User Computing,Resolved,1
+INC0095,2025-10-28 8:55,2025-10-24 21:09,Headset microphone not working,Hardware,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0096,2026-01-18 20:08,2026-01-21 2:19,Monitor flickering intermittently,Hardware,3-Moderate,End User Computing,Closed,0
+INC0097,2026-01-25 1:20,2026-01-25 13:37,Monitor flickering intermittently,Hardware,2-High,Desktop Support,Resolved,0
+INC0098,2026-02-16 3:03,2026-03-03 5:35,Long running query blocking transactions,Database,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0099,2026-02-08 5:50,2026-02-08 18:27,Outlook crashing on startup,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0100,2026-01-11 20:35,2026-01-14 18:25,Firewall blocking required application port,Network,3-Moderate,Security Operations,Resolved,1
+INC0101,2026-01-08 12:13,2026-01-09 0:08,Keyboard keys unresponsive,Hardware,2-High,Service Desk - Tier 1,Closed,0
+INC0102,2026-03-30 18:34,2026-03-31 9:09,VPN client disconnecting frequently,Software,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0103,2026-02-09 5:11,2026-02-12 0:20,Antivirus blocking legitimate application,Software,3-Moderate,Application Support - ERP,Closed,2
+INC0104,2025-12-20 13:14,2025-12-20 19:49,Unable to connect to corporate WiFi,Network,1-Critical,Service Desk - Tier 1,Closed,1
+INC0105,2026-02-15 2:36,2026-02-19 6:37,Laptop battery draining rapidly,Hardware,4-Low,End User Computing,Closed,0
+INC0106,2025-11-03 18:21,2025-11-06 7:56,VPN client disconnecting frequently,Software,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0107,2026-04-18 23:53,2026-04-20 18:00,Long running query blocking transactions,Database,3-Moderate,Database Administration,Closed,0
+INC0108,2026-04-16 17:51,2026-04-19 21:51,Slow query performance on reporting DB,Database,3-Moderate,Network Operations,Resolved,0
+INC0109,2026-03-29 15:42,2026-04-01 12:19,Monitor flickering intermittently,Hardware,3-Moderate,Linux Server Team,Resolved,0
+INC0110,2026-03-20 12:32,2026-03-20 21:04,Slow network performance in HQ floor 3,network,2-High,Database Administration,Closed,0
+INC0111,2026-02-15 17:22,2026-02-19 19:23,Keyboard keys unresponsive,Hardware,4-Low,Security Operations,Resolved,0
+INC0112,2025-12-17 1:51,2025-12-17 21:32,Firewall blocking required application port,Network,2-High,Security Operations,Closed,0
+INC0113,2026-02-02 4:08,2026-02-03 20:49,Index corruption detected on customer table,Database,2-High,Storage & Backup,Closed,0
+INC0114,2025-11-08 0:53,2025-11-10 18:49,Printer paper jam recurring,Hardware,3-Moderate,Storage & Backup,Closed,1
+INC0115,2026-01-05 17:39,2026-01-06 3:28,Hard drive making clicking noise,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0116,2026-03-19 2:27,2026-03-19 10:47,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Application Support - ERP,Resolved,0
+INC0117,2025-11-01 0:31,2025-11-04 20:58,Scheduled maintenance plan did not run,Database,2-High,Service Desk - Tier 1,Closed,0
+INC0118,2025-12-30 6:14,2025-12-30 18:34,Excel file corrupted on save,Software,2-High,End User Computing,Closed,0
+INC0119,2026-01-03 5:42,2026-01-05 16:10,Monitor flickering intermittently,Hardware,3-Moderate,Storage & Backup,Resolved,0
+INC0120,2026-02-24 13:38,2026-02-26 3:22,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0121,2025-10-30 21:17,2025-10-31 11:28,Deadlock errors on orders table,DB,1-Critical,Database Administration,Closed,1
+INC0122,2026-01-02 5:05,2026-01-03 17:14,Keyboard keys unresponsive,Hardware,3-Moderate,Application Support - ERP,Closed,0
+INC0123,2026-02-16 17:38,2026-02-17 20:26,Cannot reach internal SharePoint site,Network,3-Moderate,Network Operations,Closed,0
+INC0124,2026-03-12 21:12,2026-03-30 16:11,Long running query blocking transactions,Database,3-Moderate,Windows Server Team,Closed,0
+INC0125,2026-03-23 11:10,2026-03-23 17:42,Antivirus blocking legitimate application,Software,2-High,Service Desk - Tier 1,Resolved,0
+INC0126,2026-02-11 4:40,2026-02-18 2:03,Database backup job failed overnight,Database,3-Moderate,Application Support - ERP,Resolved,0
+INC0127,2026-02-18 13:33,2026-02-19 11:53,Laptop battery draining rapidly,Hardware,2-High,Desktop Support,Closed,0
+INC0128,2026-03-01 10:21,,Hard drive making clicking noise,Hardware,4-Low,Security Operations,On Hold,0
+INC0129,2026-03-07 17:15,2026-03-09 4:54,VPN tunnel dropping every 15 minutes,Network,4-Low,Network Operations,Resolved,0
+INC0130,2026-02-06 20:51,2026-02-07 9:04,Firewall blocking required application port,Network,3-Moderate,Database Administration,Resolved,0
+INC0131,2026-01-21 4:56,2026-01-23 21:07,Keyboard keys unresponsive,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0132,2025-11-23 4:49,2025-11-24 10:57,Monitor flickering intermittently,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0133,2026-01-28 8:09,2026-01-30 5:19,Network printer unreachable from VLAN,Network,3-Moderate,Network Operations,Closed,1
+INC0134,2026-02-24 7:23,2026-02-24 13:47,Laptop will not power on,Hardware,1-Critical,Application Support - ERP,Closed,0
+INC0135,2026-03-28 12:31,2026-03-29 1:11,Firewall blocking required application port,Network,3-Moderate,Network Operations,Closed,0
+INC0136,2026-04-07 21:30,2026-04-10 6:11,Chrome browser freezing on launch,Software,3-Moderate,Application Support - CRM,Resolved,0
+INC0137,2026-04-08 13:17,,Antivirus blocking legitimate application,Software,1-Critical,Application Support - ERP,On Hold,2
+INC0138,2025-11-28 14:41,2025-12-01 14:34,Outlook crashing on startup,Software,4-Low,Service Desk - Tier 1,Resolved,0
+INC0139,2025-11-01 13:32,2025-11-01 1:25,Database backup job failed overnight,Database,2-High,Storage & Backup,Closed,0
+INC0140,2025-11-29 13:09,2025-12-05 21:19,Connection pool exhaustion alerts,Database,3-Moderate,Windows Server Team,Resolved,0
+INC0141,2026-01-01 17:50,2026-01-04 17:51,Keyboard keys unresponsive,Hardware,4-Low,Security Operations,Closed,1
+INC0142,2026-02-18 19:06,2026-03-11 16:36,Scheduled maintenance plan did not run,Database,4-Low,Application Support - ERP,Closed,0
+INC0143,2025-11-13 0:47,2025-11-13 8:39,Unable to connect to corporate WiFi,Network,1-Critical,Application Support - CRM,Closed,0
+INC0144,2026-02-21 21:28,2026-02-23 5:48,Antivirus blocking legitimate application,Software,3-Moderate,End User Computing,Closed,0
+INC0145,2025-12-01 8:12,2025-12-04 3:07,Laptop will not power on,Hardware,3-Moderate,Security Operations,Closed,0
+INC0146,2025-11-25 9:05,2025-11-27 4:02,Cannot reach internal SharePoint site,Network,3-Moderate,Application Support - CRM,Closed,0
+INC0147,2025-12-19 12:59,,Teams audio not working in meetings,Software,2-High,Linux Server Team,On Hold,0
+INC0148,2026-03-26 4:51,,Tablespace reaching capacity threshold,Database,3-Moderate,Database Administration,On Hold,0
+INC0149,2026-03-21 20:44,2026-03-26 7:24,Tablespace reaching capacity threshold,Database,3-Moderate,Cloud Infrastructure,Closed,0
+INC0150,2026-02-19 7:15,2026-02-19 18:30,DNS resolution failures on finance subnet,Network,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0151,2026-02-06 14:49,2026-02-26 15:21,Tablespace reaching capacity threshold,Database,4-Low,Database Administration,Closed,0
+INC0152,2026-04-05 20:50,2026-04-06 19:06,Laptop will not power on,Hardware,2-High,End User Computing,Resolved,0
+INC0153,2025-12-17 23:00,,Production DB replication lag exceeding SLA,Database,3-Moderate,Service Desk - Tier 1,On Hold,0
+INC0154,2026-02-24 6:43,2026-02-27 2:48,Printer paper jam recurring,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0155,2025-12-27 5:03,2026-01-09 7:29,Slow query performance on reporting DB,Database,3-Moderate,Application Support - ERP,Closed,0
+INC0156,2025-12-09 21:58,2025-12-10 9:39,Headset microphone not working,Hardware,2-High,Security Operations,Closed,0
+INC0157,2025-12-21 7:49,2025-12-21 9:56,Slow network performance in HQ floor 3,Network,1-Critical,Windows Server Team,Closed,2
+INC0158,2025-11-21 11:53,2025-11-22 11:40,Load balancer reporting unhealthy nodes,Network,2-High,Cloud Infrastructure,Closed,1
+INC0159,2026-02-01 19:02,2026-02-02 8:02,PowerBI report failing to refresh,Software,3-Moderate,Storage & Backup,Resolved,0
+INC0160,2026-03-03 20:24,2026-03-06 21:24,SAP GUI timeout errors,Software,4-Low,Desktop Support,Closed,0
+INC0161,2025-10-26 23:27,2025-10-29 7:11,Hard drive making clicking noise,Hardware,3-Moderate,Security Operations,Closed,0
+INC0162,2025-10-28 21:53,,Docking station not detecting external display,Hardware,1-Critical,Network Operations,On Hold,0
+INC0163,2026-04-18 20:03,2026-04-20 18:00,Failover cluster node not rejoining,Database,4-Low,Network Operations,Closed,3
+INC0164,2025-10-23 10:11,2025-10-30 2:57,Deadlock errors on orders table,Database,3-Moderate,Database Administration,Closed,0
+INC0165,2025-10-29 0:08,2025-10-28 2:46,Slow network performance in HQ floor 3,Network,4-Low,Application Support - CRM,Resolved,0
+INC0166,2026-02-04 13:27,2026-02-04 15:59,Headset microphone not working,Hardware,1-Critical,Desktop Support,Closed,0
+INC0167,2026-01-31 23:12,,DNS resolution failures on finance subnet,Network,4-Low,Network Operations,On Hold,0
+INC0168,2025-12-28 15:05,2025-12-31 1:22,VPN client disconnecting frequently,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0169,2025-11-19 18:43,,Index corruption detected on customer table,Database,2-High,Storage & Backup,On Hold,0
+INC0170,2025-12-01 5:37,2025-12-02 7:19,Production DB replication lag exceeding SLA,Database,2-High,Database Administration,Closed,0
+INC0171,2026-03-12 9:30,2026-03-12 17:50,Laptop will not power on,Hardware,2-High,Desktop Support,Resolved,0
+INC0172,2026-03-06 19:51,,Headset microphone not working,Hardware,4-Low,Security Operations,On Hold,0
+INC0173,2026-02-03 8:59,2026-02-07 21:44,SAP GUI timeout errors,Software,4-Low,Cloud Infrastructure,Closed,0
+INC0174,2025-12-04 17:12,2025-12-06 12:37,Teams audio not working in meetings,Software,3-Moderate,Desktop Support,Resolved,0
+INC0175,2026-03-04 17:36,2026-03-08 22:10,Failover cluster node not rejoining,Database,2-High,Database Administration,Resolved,0
+INC0176,2025-11-03 3:42,,Scheduled maintenance plan did not run,Database,4-Low,Service Desk - Tier 1,On Hold,1
+INC0177,2025-12-06 16:33,2025-12-07 14:33,Headset microphone not working,Hardware,3-Moderate,End User Computing,Resolved,0
+INC0178,2026-03-11 23:39,2026-03-12 8:45,Keyboard keys unresponsive,Hard Ware,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0179,2025-12-30 13:48,2025-12-31 21:41,Chrome browser freezing on launch,Software,3-Moderate,Application Support - ERP,Closed,1
+INC0180,2025-11-09 21:44,2025-11-13 10:52,Monitor flickering intermittently,Hardware,4-Low,Application Support - ERP,Resolved,0
+INC0181,2026-02-02 7:24,2026-02-06 1:51,Cannot reach internal SharePoint site,Network,4-Low,Service Desk - Tier 1,Closed,0
+INC0182,2026-04-05 21:16,2026-04-07 18:51,Guest WiFi authentication failing,Network,3-Moderate,Storage & Backup,Closed,0
+INC0183,2026-02-04 17:12,2026-02-09 16:05,PowerBI report failing to refresh,Software,4-Low,Cloud Infrastructure,Resolved,0
+INC0184,2026-03-21 1:49,2026-03-23 9:09,Laptop battery draining rapidly,Hardware,4-Low,Application Support - ERP,Closed,0
+INC0185,2025-11-08 9:21,2025-11-12 3:47,Database backup job failed overnight,Database,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0186,2026-03-19 14:07,2026-03-22 9:13,Webcam not recognized by system,Hardware,4-Low,Service Desk - Tier 1,Closed,0
+INC0187,2025-10-25 3:30,,Docking station not detecting external display,Hardware,4-Low,Network Operations,On Hold,0
+INC0188,2025-11-18 17:02,2025-11-19 2:24,Teams audio not working in meetings,Software,2-High,Application Support - CRM,Closed,0
+INC0189,2026-02-19 11:53,2026-02-20 15:22,Network printer unreachable from VLAN,Network,3-Moderate,Network Operations,Closed,1
+INC0190,2026-02-15 4:04,,Database backup job failed overnight,Database,4-Low,Database Administration,On Hold,0
+INC0191,2025-12-23 17:17,2025-12-24 11:11,Windows update failing repeatedly,Software,2-High,Application Support - ERP,Closed,0
+INC0192,2026-02-05 16:48,2026-02-06 2:32,DNS resolution failures on finance subnet,Network,3-Moderate,Network Operations,Resolved,0
+INC0193,2026-01-27 16:55,2026-01-29 7:43,Webcam not recognized by system,Hardware,4-Low,Service Desk - Tier 1,Closed,3
+INC0194,2026-04-09 14:47,,Slow query performance on reporting DB,Database,3-Moderate,Application Support - ERP,On Hold,0
+INC0195,2026-04-18 7:25,2026-04-20 17:29,Unable to connect to corporate WiFi,Network,4-Low,Application Support - ERP,Resolved,0
+INC0196,2025-11-12 7:44,2025-11-20 8:38,Index corruption detected on customer table,Database,3-Moderate,Database Administration,Resolved,0
+INC0197,2026-01-11 12:35,2026-01-11 20:01,Adobe Acrobat license expired error,Software,1-Critical,Application Support - CRM,Closed,0
+INC0198,2026-01-18 14:33,2026-01-20 22:03,Database backup job failed overnight,Database,2-High,Storage & Backup,Resolved,0
+INC0199,2026-01-20 11:19,2026-01-21 7:07,Outlook crashing on startup,Software,3-Moderate,Linux Server Team,Closed,1
+INC0200,2025-12-01 17:01,2025-12-14 23:14,Failover cluster node not rejoining,Database,3-Moderate,Database Administration,Resolved,0
+INC0201,2025-12-22 14:34,,Network printer unreachable from VLAN,Network,3-Moderate,Network Operations,On Hold,0
+INC0202,2026-03-29 18:17,2026-04-02 2:57,Hard drive making clicking noise,Hardware,4-Low,Service Desk - Tier 1,Resolved,0
+INC0203,2026-02-15 13:32,2026-02-16 1:13,VPN client disconnecting frequently,Software,2-High,Application Support - CRM,Closed,0
+INC0204,2026-04-08 19:37,2026-04-13 1:53,PowerBI report failing to refresh,Software,4-Low,Windows Server Team,Resolved,0
+INC0205,2025-11-07 19:16,2025-11-11 22:59,Index corruption detected on customer table,Database,4-Low,Application Support - CRM,Closed,0
+INC0206,2026-03-22 6:17,2026-03-27 12:02,Deadlock errors on orders table,Database,2-High,End User Computing,Closed,0
+INC0207,2025-12-29 10:29,2025-12-30 21:45,Chrome browser freezing on launch,Software,4-Low,Cloud Infrastructure,Closed,0
+INC0208,2026-02-19 9:28,2026-02-20 6:43,Cannot reach internal SharePoint site,Network,3-Moderate,Application Support - CRM,Closed,0
+INC0209,2026-04-15 13:01,,Slow network performance in HQ floor 3,Network,2-High,Desktop Support,On Hold,0
+INC0210,2025-11-16 9:20,,Database backup job failed overnight,Database,4-Low,Database Administration,On Hold,0
+INC0211,2026-02-11 20:59,2026-02-13 5:00,Excel file corrupted on save,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0212,2026-04-09 11:24,2026-04-11 18:10,Intermittent packet loss to data center,Network,3-Moderate,Security Operations,Resolved,0
+INC0213,2025-12-13 21:28,2025-12-23 20:35,Production DB replication lag exceeding SLA,Database,3-Moderate,Desktop Support,Closed,0
+INC0214,2026-01-13 19:41,2026-01-16 4:51,Tablespace reaching capacity threshold,DB,3-Moderate,Network Operations,Closed,0
+INC0215,2026-01-07 17:05,2026-01-10 10:17,Monitor flickering intermittently,Hardware,4-Low,Service Desk - Tier 1,Closed,0
+INC0216,2025-10-24 7:34,2025-10-27 6:48,Excel file corrupted on save,Software,3-Moderate,Database Administration,Closed,0
+INC0217,2026-01-05 1:36,2026-01-05 18:07,Mouse cursor freezing,Hardware,3-Moderate,Application Support - CRM,Closed,0
+INC0218,2025-11-21 3:27,2025-11-22 15:46,VPN client disconnecting frequently,Software,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0219,2025-12-09 20:46,2025-12-18 14:09,Production DB replication lag exceeding SLA,Database,3-Moderate,Security Operations,Resolved,0
+INC0220,2026-01-06 19:41,2026-01-09 13:09,Slow network performance in HQ floor 3,Network,3-Moderate,Network Operations,Closed,0
+INC0221,2025-12-23 4:52,,Keyboard keys unresponsive,Hardware,4-Low,Desktop Support,On Hold,1
+INC0222,2026-03-21 8:10,2026-03-23 11:24,Slow query performance on reporting DB,Database,3-Moderate,Application Support - ERP,Resolved,0
+INC0223,2026-02-04 3:39,2026-02-08 8:07,Scheduled maintenance plan did not run,Database,3-Moderate,Database Administration,Resolved,0
+INC0224,2025-12-08 2:07,,Laptop will not power on,Hardware,3-Moderate,Desktop Support,On Hold,1
+INC0225,2026-03-15 18:32,2026-03-13 17:52,Hard drive making clicking noise,Hardware,3-Moderate,Application Support - CRM,Closed,0
+INC0226,2025-12-13 22:31,2025-12-14 4:53,Load balancer reporting unhealthy nodes,Network,2-High,Service Desk - Tier 1,Resolved,0
+INC0227,2026-04-07 14:54,2026-04-08 15:14,Monitor flickering intermittently,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0228,2026-01-01 10:15,2026-01-01 13:56,Webcam not recognized by system,Hardware,1-Critical,Desktop Support,Closed,0
+INC0229,2026-01-28 5:40,2026-01-28 11:23,Guest WiFi authentication failing,Network,1-Critical,Service Desk - Tier 1,Closed,0
+INC0230,2026-01-19 10:35,2026-01-21 6:40,Firewall blocking required application port,Network,3-Moderate,Network Operations,Closed,2
+INC0231,2025-11-20 23:41,2025-11-21 22:36,Outlook crashing on startup,Software,3-Moderate,End User Computing,Resolved,0
+INC0232,2026-02-02 15:06,2026-02-12 13:21,Production DB replication lag exceeding SLA,Database,3-Moderate,Storage & Backup,Closed,1
+INC0233,2025-11-08 5:40,,Connection pool exhaustion alerts,Database,3-Moderate,Network Operations,On Hold,0
+INC0234,2025-11-17 3:08,2025-11-23 2:49,Failover cluster node not rejoining,Database,3-Moderate,Database Administration,Closed,0
+INC0235,2025-11-12 6:24,2025-11-15 9:50,Chrome browser freezing on launch,Software,4-Low,Application Support - CRM,Closed,0
+INC0236,2026-03-08 14:09,2026-03-10 21:37,Printer paper jam recurring,Hardware,4-Low,End User Computing,Closed,0
+INC0237,2025-10-28 18:51,,Webcam not recognized by system,Hardware,2-High,End User Computing,On Hold,0
+INC0238,2025-11-15 8:00,2025-11-16 4:37,Adobe Acrobat license expired error,Software,2-High,Linux Server Team,Resolved,2
+INC0239,2025-10-26 23:35,2025-10-27 7:33,Hard drive making clicking noise,Hardware,2-High,Service Desk - Tier 1,Resolved,2
+INC0240,2026-01-07 10:49,2026-01-08 22:08,Docking station not detecting external display,Hardware,3-Moderate,Desktop Support,Resolved,1
+INC0241,2026-01-27 15:00,2026-01-28 2:54,Printer paper jam recurring,Hardware,3-Moderate,Linux Server Team,Resolved,0
+INC0242,2026-01-05 0:34,2026-01-07 23:05,PowerBI report failing to refresh,Software,4-Low,Application Support - ERP,Resolved,0
+INC0243,2026-03-22 22:15,,Docking station not detecting external display,Hardware,2-High,Service Desk - Tier 1,On Hold,3
+INC0244,2025-11-11 4:39,,DNS resolution failures on finance subnet,Network,4-Low,Windows Server Team,On Hold,0
+INC0245,2026-03-26 14:06,2026-03-28 6:47,Hard drive making clicking noise,Hardware,4-Low,Storage & Backup,Resolved,0
+INC0246,2025-11-19 8:14,2025-11-22 7:28,Docking station not detecting external display,Hardware,3-Moderate,Desktop Support,Resolved,0
+INC0247,2025-10-22 21:11,2025-10-23 13:28,Hard drive making clicking noise,Hardware,2-High,Service Desk - Tier 1,Closed,0
+INC0248,2025-11-05 20:01,,Adobe Acrobat license expired error,Software,4-Low,Linux Server Team,On Hold,0
+INC0249,2026-03-13 23:00,,Webcam not recognized by system,Hardware,3-Moderate,Storage & Backup,On Hold,2
+INC0250,2026-02-18 22:05,2026-02-20 14:55,Cannot reach internal SharePoint site,Network,4-Low,Desktop Support,Resolved,0
+INC0251,2025-11-27 2:33,2025-12-05 22:52,Database backup job failed overnight,Database,4-Low,Database Administration,Resolved,0
+INC0252,2025-11-08 23:29,,Intermittent packet loss to data center,Network,2-High,Network Operations,On Hold,0
+INC0253,2026-03-11 15:22,2026-03-13 22:15,SAP GUI timeout errors,Software,3-Moderate,Security Operations,Resolved,0
+INC0254,2026-02-26 3:44,,Deadlock errors on orders table,Database,3-Moderate,Database Administration,On Hold,0
+INC0255,2025-11-06 3:47,,Hard drive making clicking noise,Hardware,3-Moderate,Desktop Support,On Hold,0
+INC0256,2026-02-15 2:22,2026-02-17 19:47,Headset microphone not working,Hardware,4-Low,End User Computing,Closed,0
+INC0257,2026-02-07 8:21,2026-02-09 11:22,Laptop will not power on,Hardware,4-Low,Network Operations,Closed,0
+INC0258,2025-12-18 22:41,2025-12-24 18:58,Long running query blocking transactions,Database,3-Moderate,Database Administration,Closed,0
+INC0259,2026-02-24 9:18,2026-03-07 3:13,Index corruption detected on customer table,Database,4-Low,Database Administration,Closed,1
+INC0260,2026-03-01 11:45,2026-03-04 9:53,Webcam not recognized by system,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0261,2026-01-07 9:55,2026-01-11 12:41,Connection pool exhaustion alerts,Database,2-High,Database Administration,Closed,2
+INC0262,2026-03-28 17:42,,Deadlock errors on orders table,Database,4-Low,Network Operations,On Hold,0
+INC0263,2026-02-15 7:07,2026-02-20 13:51,Failover cluster node not rejoining,Database,4-Low,Security Operations,Closed,0
+INC0264,2026-01-12 5:26,2026-01-14 1:42,Monitor flickering intermittently,Hardware,3-Moderate,End User Computing,Closed,0
+INC0265,2026-04-11 5:16,,Webcam not recognized by system,Hardware,4-Low,Desktop Support,On Hold,0
+INC0266,2026-03-03 22:49,2026-03-13 23:53,Tablespace reaching capacity threshold,database,3-Moderate,Storage & Backup,Resolved,0
+INC0267,2026-03-04 17:38,,Slow network performance in HQ floor 3,Network,4-Low,End User Computing,On Hold,0
+INC0268,2025-12-14 1:35,2025-12-14 15:18,Guest WiFi authentication failing,Network,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0269,2025-12-22 3:56,2025-12-24 13:53,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Network Operations,Closed,1
+INC0270,2026-03-08 13:49,,Printer paper jam recurring,Hardware,3-Moderate,Desktop Support,On Hold,1
+INC0271,2026-01-03 1:49,2026-01-05 13:57,Tablespace reaching capacity threshold,Database,2-High,Cloud Infrastructure,Closed,0
+INC0272,2025-12-03 8:47,2025-12-04 1:44,Unable to connect to corporate WiFi,NW,2-High,Security Operations,Resolved,2
+INC0273,2026-03-27 6:18,2026-03-27 15:20,Docking station not detecting external display,Hardware,2-High,Network Operations,Closed,0
+INC0274,2026-01-31 20:20,2026-02-01 8:17,Intermittent packet loss to data center,Network,2-High,Application Support - ERP,Closed,0
+INC0275,2025-12-15 10:30,2025-12-16 7:44,Cannot reach internal SharePoint site,Network,2-High,Network Operations,Closed,0
+INC0276,2026-02-16 6:21,2026-02-17 8:48,Teams audio not working in meetings,Software,4-Low,Application Support - ERP,Resolved,0
+INC0277,2026-03-30 4:54,,Deadlock errors on orders table,Database,3-Moderate,Database Administration,On Hold,0
+INC0278,2026-04-04 21:56,2026-04-12 22:52,Scheduled maintenance plan did not run,Database,3-Moderate,Cloud Infrastructure,Closed,0
+INC0279,2026-04-09 23:10,2026-04-10 18:55,Slow network performance in HQ floor 3,Network,2-High,Network Operations,Closed,1
+INC0280,2026-03-03 22:16,2026-03-04 8:14,Printer paper jam recurring,Hardware,2-High,Desktop Support,Closed,3
+INC0281,2025-11-07 10:36,2025-11-18 2:32,Database backup job failed overnight,Database,4-Low,Application Support - CRM,Closed,0
+INC0282,2026-01-14 1:24,2026-01-14 11:49,Laptop will not power on,Hardware,3-Moderate,End User Computing,Closed,0
+INC0283,2026-03-06 10:03,2026-03-07 0:37,Excel file corrupted on save,SW,3-Moderate,Security Operations,Closed,0
+INC0284,2026-01-14 23:01,2026-01-16 4:57,DNS resolution failures on finance subnet,Network,3-Moderate,Network Operations,Closed,1
+INC0285,2026-03-14 7:02,2026-03-17 20:26,Tablespace reaching capacity threshold,DB,3-Moderate,Cloud Infrastructure,Closed,0
+INC0286,2026-03-05 16:28,2026-03-06 8:22,Printer paper jam recurring,Hardware,3-Moderate,Cloud Infrastructure,Closed,0
+INC0287,2026-02-20 16:26,2026-02-20 23:11,Slow network performance in HQ floor 3,Network,2-High,Network Operations,Closed,0
+INC0288,2026-02-01 8:02,2026-02-03 11:51,Index corruption detected on customer table,Database,2-High,Database Administration,Closed,0
+INC0289,2025-11-20 17:03,2025-11-24 14:31,Printer paper jam recurring,Hardware,4-Low,Database Administration,Resolved,2
+INC0290,2025-10-30 9:49,2025-10-30 21:01,Unable to connect to corporate WiFi,Network,2-High,Service Desk - Tier 1,Closed,0
+INC0291,2025-12-13 20:24,,Excel file corrupted on save,Software,4-Low,Application Support - ERP,On Hold,0
+INC0292,2026-01-05 15:33,2026-01-10 4:37,Keyboard keys unresponsive,Hardware,4-Low,Security Operations,Closed,0
+INC0293,2026-02-10 5:28,2026-02-12 15:53,VPN client disconnecting frequently,Software,4-Low,Application Support - CRM,Closed,0
+INC0294,2025-10-25 3:36,2025-10-26 7:27,Failover cluster node not rejoining,Database,1-Critical,Application Support - ERP,Resolved,0
+INC0295,2026-02-28 15:06,2026-03-03 4:48,Laptop will not power on,Hardware,3-Moderate,Service Desk - Tier 1,Closed,2
+INC0296,2026-01-26 5:14,2026-02-09 7:14,Deadlock errors on orders table,Database,4-Low,Desktop Support,Closed,0
+INC0297,2026-01-27 7:55,2026-02-02 21:05,Connection pool exhaustion alerts,Database,3-Moderate,End User Computing,Closed,0
+INC0298,2026-04-01 0:13,2026-04-02 13:18,SAP GUI timeout errors,Software,3-Moderate,Linux Server Team,Closed,0
+INC0299,2025-12-28 0:50,2026-01-10 4:28,Database backup job failed overnight,Database,4-Low,Application Support - ERP,Closed,1
+INC0300,2026-04-06 5:30,2026-04-14 6:18,Connection pool exhaustion alerts,Database,3-Moderate,Network Operations,Closed,1
+INC0301,2026-01-27 14:42,2026-02-09 14:25,Database backup job failed overnight,Database,4-Low,Windows Server Team,Closed,0
+INC0302,2025-12-24 5:54,2025-12-27 4:35,Teams audio not working in meetings,Software,3-Moderate,Application Support - ERP,Resolved,0
+INC0303,2026-03-07 16:18,2026-03-08 6:32,Load balancer reporting unhealthy nodes,Network,2-High,Application Support - CRM,Closed,0
+INC0304,2026-03-09 16:41,2026-03-13 11:20,Slow network performance in HQ floor 3,Network,4-Low,Cloud Infrastructure,Closed,0
+INC0305,2026-04-11 3:20,2026-04-14 22:08,Deadlock errors on orders table,Database,4-Low,Database Administration,Closed,0
+INC0306,2026-03-24 1:22,2026-03-24 20:26,Load balancer reporting unhealthy nodes,Network,2-High,Security Operations,Closed,0
+INC0307,2025-12-17 14:29,2025-12-31 21:45,Scheduled maintenance plan did not run,Database,4-Low,Desktop Support,Resolved,0
+INC0308,2026-04-01 22:00,,Chrome browser freezing on launch,Software,4-Low,Storage & Backup,On Hold,0
+INC0309,2026-03-22 11:06,2026-03-23 23:49,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0310,2026-02-13 3:34,2026-02-14 17:25,Hard drive making clicking noise,Hardware,3-Moderate,Windows Server Team,Closed,0
+INC0311,2026-03-23 23:51,2026-03-26 21:05,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Network Operations,Closed,0
+INC0312,2025-12-26 0:52,2025-12-29 3:48,Laptop will not power on,Hardware,4-Low,Service Desk - Tier 1,Resolved,0
+INC0313,2025-10-30 11:50,2025-11-02 6:27,PowerBI report failing to refresh,Software,3-Moderate,Linux Server Team,Resolved,0
+INC0314,2025-12-19 7:28,2025-12-21 0:22,Load balancer reporting unhealthy nodes,Network,3-Moderate,Database Administration,Closed,0
+INC0315,2026-01-13 2:57,,Excel file corrupted on save,Software,4-Low,Network Operations,On Hold,1
+INC0316,2025-11-21 14:32,2025-11-26 4:12,Long running query blocking transactions,Database,4-Low,Application Support - CRM,Resolved,0
+INC0317,2025-12-23 4:33,2025-12-24 22:46,Network printer unreachable from VLAN,Network,3-Moderate,Service Desk - Tier 1,Closed,1
+INC0318,2025-12-20 6:23,2025-12-20 16:01,Unable to connect to corporate WiFi,Network,2-High,Network Operations,Resolved,0
+INC0319,2025-12-19 0:41,2025-12-23 16:27,Adobe Acrobat license expired error,Software,4-Low,End User Computing,Resolved,0
+INC0320,2026-02-04 1:18,2026-02-04 6:08,Chrome browser freezing on launch,Software,1-Critical,Application Support - ERP,Resolved,0
+INC0321,2025-11-29 11:37,2025-11-30 5:02,PowerBI report failing to refresh,Software,2-High,Application Support - CRM,Resolved,0
+INC0322,2026-02-12 11:46,2026-02-12 22:23,Network printer unreachable from VLAN,Network,2-High,Service Desk - Tier 1,Closed,0
+INC0323,2026-02-13 4:25,2026-02-21 21:42,Deadlock errors on orders table,Database,3-Moderate,Linux Server Team,Closed,0
+INC0324,2026-04-11 5:14,2026-04-11 18:09,Network printer unreachable from VLAN,Network,2-High,Service Desk - Tier 1,Resolved,0
+INC0325,2026-02-21 10:15,2026-02-21 15:45,Antivirus blocking legitimate application,Software,2-High,Application Support - CRM,Resolved,0
+INC0326,2026-02-04 13:04,2026-02-05 20:29,Teams audio not working in meetings,Software,3-Moderate,Desktop Support,Closed,0
+INC0327,2026-04-05 9:52,2026-04-07 13:40,Keyboard keys unresponsive,Hardware,3-Moderate,Desktop Support,Resolved,2
+INC0328,2025-12-04 5:46,2025-12-05 6:41,PowerBI report failing to refresh,Software,3-Moderate,Storage & Backup,Closed,0
+INC0329,2026-02-25 16:20,2026-03-21 10:52,Scheduled maintenance plan did not run,Database,4-Low,Application Support - CRM,Closed,0
+INC0330,2026-01-31 1:49,2026-02-05 3:12,Index corruption detected on customer table,Database,3-Moderate,Storage & Backup,Resolved,0
+INC0331,2025-12-16 6:40,2025-12-16 14:24,Chrome browser freezing on launch,Software,2-High,Application Support - ERP,Closed,0
+INC0332,2025-11-23 1:27,2025-11-24 1:03,Keyboard keys unresponsive,Hardware,3-Moderate,Linux Server Team,Closed,0
+INC0333,2026-01-09 11:33,2026-01-10 2:50,Teams audio not working in meetings,Software,2-High,End User Computing,Closed,0
+INC0334,2026-02-16 10:06,2026-02-19 9:03,Failover cluster node not rejoining,Database,2-High,Storage & Backup,Resolved,0
+INC0335,2025-12-01 1:00,2025-12-03 4:48,Keyboard keys unresponsive,Hardware,3-Moderate,Database Administration,Closed,0
+INC0336,2025-11-09 20:17,2025-11-11 18:55,Webcam not recognized by system,Hardware,3-Moderate,Application Support - CRM,Resolved,0
+INC0337,2026-01-24 8:51,,Webcam not recognized by system,Hardware,3-Moderate,Desktop Support,On Hold,1
+INC0338,2026-04-17 11:18,2026-04-17 20:58,Laptop will not power on,Hardware,2-High,Windows Server Team,Resolved,0
+INC0339,2026-01-10 3:21,2026-01-10 10:27,Webcam not recognized by system,Hardware,2-High,Application Support - CRM,Resolved,0
+INC0340,2026-01-24 10:27,2026-02-01 2:51,Slow query performance on reporting DB,Database,3-Moderate,Linux Server Team,Resolved,1
+INC0341,2025-11-23 4:01,2025-11-25 14:19,Laptop will not power on,Hardware,3-Moderate,Desktop Support,Resolved,2
+INC0342,2026-02-16 7:20,2026-02-17 15:01,Webcam not recognized by system,Hardware,4-Low,End User Computing,Closed,0
+INC0343,2026-03-31 0:32,,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Windows Server Team,On Hold,0
+INC0344,2025-11-29 13:35,2025-12-01 11:49,Outlook crashing on startup,Software,4-Low,Application Support - ERP,Closed,0
+INC0345,2026-03-01 18:51,2026-03-02 10:34,Excel file corrupted on save,Software,2-High,Application Support - CRM,Closed,0
+INC0346,2025-11-29 12:33,2025-12-01 5:21,Load balancer reporting unhealthy nodes,Network,4-Low,Service Desk - Tier 1,Closed,0
+INC0347,2026-03-29 15:32,,Headset microphone not working,Hardware,4-Low,Desktop Support,On Hold,0
+INC0348,2026-03-22 8:33,2026-03-26 1:42,Deadlock errors on orders table,Database,4-Low,Windows Server Team,Resolved,0
+INC0349,2026-03-07 20:03,2026-03-08 10:00,Slow network performance in HQ floor 3,Network,3-Moderate,Application Support - ERP,Closed,0
+INC0350,2026-03-16 15:20,2026-03-18 10:30,Cannot reach internal SharePoint site,Network,4-Low,Network Operations,Closed,0
+INC0351,2025-11-15 0:40,2025-11-17 3:07,PowerBI report failing to refresh,Software,3-Moderate,End User Computing,Resolved,1
+INC0352,2026-04-14 22:19,,Network printer unreachable from VLAN,Network,3-Moderate,Security Operations,On Hold,0
+INC0353,2026-02-01 20:06,2026-02-04 20:20,VPN tunnel dropping every 15 minutes,Network,4-Low,Network Operations,Closed,0
+INC0354,2026-01-04 10:15,2026-01-05 9:48,Index corruption detected on customer table,Database,1-Critical,End User Computing,Resolved,0
+INC0355,2026-01-03 1:05,2026-01-03 13:06,Chrome browser freezing on launch,Software,2-High,Cloud Infrastructure,Resolved,0
+INC0356,2026-03-27 2:26,2026-03-28 19:23,PowerBI report failing to refresh,Software,4-Low,Application Support - CRM,Closed,0
+INC0357,2026-01-08 2:41,2026-01-13 2:54,Failover cluster node not rejoining,Database,3-Moderate,Database Administration,Resolved,0
+INC0358,2026-03-03 17:05,2026-03-05 13:57,Cannot reach internal SharePoint site,Network,3-Moderate,Network Operations,Closed,0
+INC0359,2026-02-18 21:52,2026-02-22 19:32,Connection pool exhaustion alerts,Database,3-Moderate,Application Support - CRM,Closed,1
+INC0360,2026-02-26 13:15,2026-02-28 14:31,Hard drive making clicking noise,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0361,2026-03-13 1:39,2026-03-14 10:28,Long running query blocking transactions,Database,2-High,Desktop Support,Closed,1
+INC0362,2025-11-11 22:20,,Docking station not detecting external display,hardware,3-Moderate,Linux Server Team,On Hold,0
+INC0363,2026-02-21 9:36,2026-02-23 20:46,Index corruption detected on customer table,Database,2-High,Database Administration,Closed,1
+INC0364,2026-02-04 11:15,,VPN tunnel dropping every 15 minutes,Network,2-High,Application Support - ERP,On Hold,0
+INC0365,2025-12-29 3:55,2025-12-31 14:05,Production DB replication lag exceeding SLA,Database,3-Moderate,Service Desk - Tier 1,Closed,1
+INC0366,2026-04-19 19:14,2026-04-20 18:00,Antivirus blocking legitimate application,Software,3-Moderate,Database Administration,Closed,0
+INC0367,2025-12-10 6:36,2025-12-12 18:55,Guest WiFi authentication failing,Network,4-Low,Application Support - CRM,Closed,0
+INC0368,2026-01-10 22:16,2026-01-11 15:00,Firewall blocking required application port,Network,3-Moderate,Network Operations,Resolved,0
+INC0369,2025-10-27 1:08,,VPN client disconnecting frequently,Software,2-High,End User Computing,On Hold,0
+INC0370,2025-11-21 0:14,2025-11-22 11:07,Adobe Acrobat license expired error,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0371,2025-12-13 11:59,2025-12-15 6:26,Guest WiFi authentication failing,Network,4-Low,Security Operations,Closed,0
+INC0372,2025-10-29 6:10,2025-11-01 22:06,Windows update failing repeatedly,Software,4-Low,Linux Server Team,Closed,0
+INC0373,2026-02-06 11:13,2026-02-08 12:05,DNS resolution failures on finance subnet,Network,3-Moderate,End User Computing,Resolved,0
+INC0374,2025-11-14 23:36,2025-11-16 20:33,Database backup job failed overnight,Database,2-High,Database Administration,Closed,0
+INC0375,2026-03-19 5:48,2026-03-21 7:03,VPN client disconnecting frequently,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0376,2026-03-05 14:08,2026-03-06 14:10,Load balancer reporting unhealthy nodes,Network,3-Moderate,Network Operations,Closed,0
+INC0377,2026-01-21 16:52,2026-01-24 11:24,VPN client disconnecting frequently,Software,3-Moderate,Application Support - CRM,Closed,1
+INC0378,2026-03-14 5:05,2026-03-18 7:35,Slow network performance in HQ floor 3,Network,4-Low,Windows Server Team,Closed,0
+INC0379,2025-11-21 16:18,2025-12-01 0:17,Database backup job failed overnight,Database,3-Moderate,Database Administration,Resolved,0
+INC0380,2026-04-03 3:26,2026-04-03 17:14,Printer paper jam recurring,Hardware,2-High,Windows Server Team,Resolved,0
+INC0381,2026-01-21 15:18,2026-01-26 9:23,Adobe Acrobat license expired error,Software,4-Low,Cloud Infrastructure,Resolved,0
+INC0382,2025-11-06 21:12,2025-11-07 11:25,DNS resolution failures on finance subnet,Network,3-Moderate,Network Operations,Resolved,0
+INC0383,2026-03-20 13:08,2026-03-22 2:29,VPN client disconnecting frequently,Software,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0384,2025-12-30 3:56,2026-01-02 3:44,Guest WiFi authentication failing,Network,3-Moderate,Security Operations,Resolved,0
+INC0385,2026-04-20 14:09,2026-04-20 8:53,Teams audio not working in meetings,Software,2-High,Windows Server Team,Resolved,0
+INC0386,2026-03-21 13:33,2026-03-22 7:21,Network printer unreachable from VLAN,NW,2-High,Network Operations,Closed,0
+INC0387,2025-12-10 6:25,,DNS resolution failures on finance subnet,Network,2-High,Network Operations,On Hold,0
+INC0388,2025-12-24 19:10,2025-12-26 6:26,Connection pool exhaustion alerts,Database,2-High,Application Support - CRM,Closed,0
+INC0389,2025-12-29 7:28,2025-12-30 21:29,Connection pool exhaustion alerts,Database,1-Critical,Storage & Backup,Resolved,0
+INC0390,2026-02-09 10:41,2026-02-14 5:38,Index corruption detected on customer table,Database,3-Moderate,Cloud Infrastructure,Closed,0
+INC0391,2025-11-17 10:02,2025-11-17 23:33,Webcam not recognized by system,Hardware,2-High,Application Support - ERP,Closed,0
+INC0392,2026-01-07 12:19,2026-01-09 11:44,Excel file corrupted on save,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0393,2025-11-28 17:44,2025-11-29 3:17,Headset microphone not working,Hardware,3-Moderate,Storage & Backup,Closed,1
+INC0394,2026-03-04 20:00,2026-03-06 6:47,Antivirus blocking legitimate application,Software,4-Low,End User Computing,Closed,1
+INC0395,2026-01-22 5:54,2026-01-24 1:28,Cannot reach internal SharePoint site,Net,4-Low,Application Support - ERP,Closed,0
+INC0396,2026-04-16 16:27,2026-04-17 11:21,Antivirus blocking legitimate application,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0397,2026-04-18 0:16,2026-04-18 9:29,Printer paper jam recurring,Hardware,3-Moderate,End User Computing,Resolved,0
+INC0398,2025-11-08 20:12,2025-11-07 18:57,Mouse cursor freezing,Hardware,3-Moderate,Desktop Support,Resolved,0
+INC0399,2025-12-07 14:47,2025-12-08 16:27,Windows update failing repeatedly,Soft-Ware,3-Moderate,Storage & Backup,Resolved,1
+INC0400,2025-12-28 2:50,2025-12-30 15:31,Headset microphone not working,Hardware,4-Low,End User Computing,Closed,0
+INC0401,2026-04-17 9:40,,Connection pool exhaustion alerts,Database,2-High,Database Administration,On Hold,0
+INC0402,2025-12-01 0:50,2025-12-03 5:57,VPN client disconnecting frequently,Software,3-Moderate,Windows Server Team,Resolved,0
+INC0403,2025-11-14 17:43,,VPN client disconnecting frequently,Software,3-Moderate,Application Support - ERP,On Hold,1
+INC0404,2026-01-10 14:34,2026-01-14 3:42,Keyboard keys unresponsive,Hardware,4-Low,Storage & Backup,Closed,0
+INC0405,2026-02-18 15:48,2026-02-20 19:48,SAP GUI timeout errors,Soft-Ware,3-Moderate,Desktop Support,Resolved,1
+INC0406,2026-01-26 4:18,,Index corruption detected on customer table,Database,3-Moderate,Database Administration,On Hold,0
+INC0407,2026-01-10 22:55,,Printer paper jam recurring,Hardware,4-Low,Storage & Backup,On Hold,3
+INC0408,2026-04-09 3:06,,Antivirus blocking legitimate application,Software,4-Low,Application Support - CRM,On Hold,0
+INC0409,2026-02-17 19:09,2026-02-23 21:39,Scheduled maintenance plan did not run,Database,3-Moderate,Application Support - CRM,Resolved,0
+INC0410,2025-10-30 23:40,2025-11-01 18:05,Webcam not recognized by system,Hardware,3-Moderate,Application Support - ERP,Resolved,0
+INC0411,2026-03-21 23:35,,Docking station not detecting external display,Hardware,3-Moderate,Database Administration,On Hold,0
+INC0412,2026-02-25 5:03,2026-03-01 7:48,Mouse cursor freezing,Hardware,4-Low,Desktop Support,Closed,0
+INC0413,2025-11-30 23:04,2025-12-07 2:38,Long running query blocking transactions,database,3-Moderate,Network Operations,Resolved,0
+INC0414,2026-01-30 2:32,2026-01-31 21:45,Intermittent packet loss to data center,Network,3-Moderate,Application Support - ERP,Resolved,0
+INC0415,2025-11-01 17:07,2025-11-02 3:18,Excel file corrupted on save,Software,2-High,Storage & Backup,Resolved,2
+INC0416,2026-04-06 20:30,2026-04-07 16:39,Laptop battery draining rapidly,Hardware,2-High,Database Administration,Closed,0
+INC0417,2026-02-08 0:21,2026-02-08 20:11,Keyboard keys unresponsive,Hardware,3-Moderate,End User Computing,Resolved,0
+INC0418,2025-11-26 8:41,2025-11-26 18:23,Load balancer reporting unhealthy nodes,Network,2-High,Network Operations,Closed,0
+INC0419,2026-01-02 7:39,2026-01-03 4:03,Firewall blocking required application port,Network,2-High,Desktop Support,Closed,0
+INC0420,2025-12-02 8:14,2025-12-04 14:57,Firewall blocking required application port,Network,3-Moderate,Linux Server Team,Closed,0
+INC0421,2026-02-11 10:21,2026-02-14 16:22,Firewall blocking required application port,Network,4-Low,Network Operations,Closed,0
+INC0422,2025-10-27 9:47,2025-10-29 5:41,Windows update failing repeatedly,Software,4-Low,Application Support - ERP,Closed,0
+INC0423,2025-11-04 22:08,2025-11-06 2:52,Adobe Acrobat license expired error,SW,3-Moderate,Application Support - ERP,Closed,0
+INC0424,2026-04-19 20:08,2026-04-20 18:00,Laptop battery draining rapidly,Hardware,2-High,End User Computing,Resolved,0
+INC0425,2025-11-02 15:04,,Load balancer reporting unhealthy nodes,Network,4-Low,Network Operations,On Hold,0
+INC0426,2025-12-26 3:55,2025-12-26 10:31,Unable to connect to corporate WiFi,Network,1-Critical,Network Operations,Resolved,0
+INC0427,2026-04-08 15:17,2026-04-11 6:11,Excel file corrupted on save,Software,3-Moderate,Application Support - CRM,Resolved,0
+INC0428,2025-11-25 17:37,2025-11-23 18:14,Scheduled maintenance plan did not run,Database,3-Moderate,Database Administration,Closed,0
+INC0429,2025-11-19 13:48,2025-12-07 5:26,Production DB replication lag exceeding SLA,Database,3-Moderate,Database Administration,Resolved,0
+INC0430,2025-11-08 15:48,2025-11-09 6:24,Laptop will not power on,HW,3-Moderate,Windows Server Team,Resolved,0
+INC0431,2025-12-23 17:20,2025-12-24 10:46,Antivirus blocking legitimate application,Software,2-High,Application Support - CRM,Closed,0
+INC0432,2026-03-27 20:55,,Cannot reach internal SharePoint site,Network,2-High,Application Support - ERP,On Hold,0
+INC0433,2025-11-17 0:11,2025-11-17 11:25,Guest WiFi authentication failing,Network,3-Moderate,Network Operations,Closed,0
+INC0434,2026-03-10 4:20,2026-03-13 1:18,Long running query blocking transactions,Database,3-Moderate,Cloud Infrastructure,Resolved,1
+INC0435,2026-03-20 14:07,2026-03-25 2:24,Slow query performance on reporting DB,Database,3-Moderate,Database Administration,Resolved,1
+INC0436,2025-10-28 15:02,2025-11-02 0:14,Intermittent packet loss to data center,Network,4-Low,Application Support - CRM,Closed,0
+INC0437,2026-02-07 17:50,2026-02-09 11:56,Headset microphone not working,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0438,2026-02-14 12:07,2026-02-23 21:16,Long running query blocking transactions,Database,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0439,2025-11-10 17:06,2025-11-20 7:11,Slow query performance on reporting DB,Database,3-Moderate,Database Administration,Closed,0
+INC0440,2026-04-16 3:28,,Laptop will not power on,Hardware,4-Low,Storage & Backup,On Hold,0
+INC0441,2025-11-29 17:52,2025-12-05 10:50,Slow query performance on reporting DB,Database,3-Moderate,Linux Server Team,Resolved,1
+INC0442,2026-04-05 8:16,2026-04-06 15:54,Mouse cursor freezing,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0443,2026-01-07 7:25,2026-01-08 1:39,VPN tunnel dropping every 15 minutes,Network,2-High,Network Operations,Resolved,0
+INC0444,2025-12-17 18:22,2025-12-19 20:56,Index corruption detected on customer table,Database,3-Moderate,Windows Server Team,Closed,2
+INC0445,2026-01-19 7:14,2026-01-22 2:47,Windows update failing repeatedly,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0446,2026-01-27 11:34,2026-01-29 3:41,Intermittent packet loss to data center,Network,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0447,2026-03-05 19:57,2026-03-09 21:39,Scheduled maintenance plan did not run,Database,2-High,Desktop Support,Closed,1
+INC0448,2026-03-01 14:26,2026-03-04 1:31,Hard drive making clicking noise,Hardware,3-Moderate,Application Support - CRM,Resolved,0
+INC0449,2026-01-12 12:04,2026-01-18 4:38,Tablespace reaching capacity threshold,Database,3-Moderate,Linux Server Team,Resolved,0
+INC0450,2026-02-27 4:40,2026-03-01 4:37,Mouse cursor freezing,Hardware,3-Moderate,Service Desk - Tier 1,Resolved,0
+INC0451,2025-10-25 12:11,,Slow network performance in HQ floor 3,Network,2-High,Application Support - CRM,On Hold,1
+INC0452,2026-03-23 16:50,2026-03-26 4:00,Excel file corrupted on save,Software,3-Moderate,End User Computing,Closed,0
+INC0453,2026-01-05 3:41,2026-01-06 23:55,Adobe Acrobat license expired error,Software,4-Low,Service Desk - Tier 1,Closed,0
+INC0454,2026-01-23 5:33,2026-01-24 23:38,Laptop battery draining rapidly,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0455,2026-02-02 17:09,2026-02-19 0:47,Tablespace reaching capacity threshold,database,3-Moderate,Database Administration,Closed,0
+INC0456,2026-03-02 21:05,2026-03-04 18:45,Keyboard keys unresponsive,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0457,2025-11-11 22:14,2025-11-12 4:02,Headset microphone not working,Hardware,1-Critical,Service Desk - Tier 1,Closed,2
+INC0458,2025-11-15 1:08,2025-11-16 9:11,VPN client disconnecting frequently,Software,3-Moderate,Storage & Backup,Resolved,0
+INC0459,2026-01-18 19:12,2026-01-20 6:31,Intermittent packet loss to data center,Network,3-Moderate,Network Operations,Closed,0
+INC0460,2025-11-03 9:53,2025-11-04 5:16,DNS resolution failures on finance subnet,Network,3-Moderate,Application Support - CRM,Closed,0
+INC0461,2026-02-18 23:17,2026-02-26 4:24,Tablespace reaching capacity threshold,Database,3-Moderate,Cloud Infrastructure,Closed,0
+INC0462,2026-02-28 19:17,,Slow query performance on reporting DB,Database,3-Moderate,Database Administration,On Hold,0
+INC0463,2026-01-26 0:43,,Index corruption detected on customer table,Database,3-Moderate,Database Administration,On Hold,1
+INC0464,2026-03-30 14:02,,Laptop battery draining rapidly,Hardware,1-Critical,Service Desk - Tier 1,On Hold,0
+INC0465,2026-02-25 9:35,2026-02-28 7:05,Cannot reach internal SharePoint site,Network,3-Moderate,Windows Server Team,Closed,0
+INC0466,2026-01-06 12:01,2026-01-07 19:00,Printer paper jam recurring,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0467,2025-12-21 12:07,2025-12-20 2:14,Adobe Acrobat license expired error,Software,1-Critical,Cloud Infrastructure,Closed,0
+INC0468,2026-03-03 10:04,2026-03-05 17:29,Keyboard keys unresponsive,Hardware,3-Moderate,Application Support - ERP,Closed,0
+INC0469,2026-02-22 14:24,2026-02-25 1:12,Headset microphone not working,Hardware,3-Moderate,Service Desk - Tier 1,Closed,1
+INC0470,2026-03-27 23:01,2026-03-31 21:51,Monitor flickering intermittently,Hardware,4-Low,End User Computing,Closed,0
+INC0471,2025-10-31 14:26,2025-11-02 4:00,Adobe Acrobat license expired error,Software,4-Low,Application Support - CRM,Closed,0
+INC0472,2026-01-03 18:53,2026-01-04 19:30,Monitor flickering intermittently,Hardware,4-Low,Security Operations,Resolved,0
+INC0473,2026-03-06 4:37,2026-03-08 23:51,VPN tunnel dropping every 15 minutes,Network,4-Low,Application Support - CRM,Resolved,0
+INC0474,2026-04-01 5:41,2026-04-01 13:59,PowerBI report failing to refresh,Software,3-Moderate,End User Computing,Closed,0
+INC0475,2025-11-02 1:19,2025-11-04 5:10,VPN client disconnecting frequently,Software,3-Moderate,Desktop Support,Closed,1
+INC0476,2025-12-26 15:55,2025-12-27 13:43,Mouse cursor freezing,Hardware,2-High,Desktop Support,Closed,0
+INC0477,2026-01-17 3:00,2026-01-17 23:29,Failover cluster node not rejoining,Database,1-Critical,Database Administration,Closed,0
+INC0478,2026-01-22 4:58,2026-01-29 10:17,Failover cluster node not rejoining,Database,3-Moderate,Database Administration,Closed,0
+INC0479,2026-03-06 3:56,2026-03-06 13:32,Intermittent packet loss to data center,Network,2-High,Network Operations,Closed,0
+INC0480,2025-11-24 17:57,2025-11-25 16:39,Chrome browser freezing on launch,Software,3-Moderate,Application Support - CRM,Resolved,1
+INC0481,2025-12-25 7:18,2025-12-28 2:40,Unable to connect to corporate WiFi,network,3-Moderate,Network Operations,Closed,0
+INC0482,2026-01-07 7:39,2026-01-16 17:03,Production DB replication lag exceeding SLA,Database,3-Moderate,Windows Server Team,Closed,0
+INC0483,2025-11-09 8:49,2025-11-10 2:12,Antivirus blocking legitimate application,Software,2-High,Service Desk - Tier 1,Resolved,0
+INC0484,2026-01-02 16:17,2026-01-03 0:22,Adobe Acrobat license expired error,Software,3-Moderate,Application Support - CRM,Resolved,0
+INC0485,2025-12-01 23:22,2025-12-04 15:44,Intermittent packet loss to data center,Network,3-Moderate,Security Operations,Resolved,0
+INC0486,2026-02-25 14:42,2026-02-25 19:36,DNS resolution failures on finance subnet,Network,1-Critical,Database Administration,Closed,0
+INC0487,2026-04-15 2:40,2026-04-16 8:45,SAP GUI timeout errors,Software,4-Low,Application Support - CRM,Closed,1
+INC0488,2025-12-18 12:03,2025-12-31 3:14,Deadlock errors on orders table,Database,3-Moderate,Storage & Backup,Closed,0
+INC0489,2025-11-06 16:36,,Monitor flickering intermittently,Hardware,2-High,Desktop Support,On Hold,0
+INC0490,2026-02-21 13:19,2026-02-26 6:45,Windows update failing repeatedly,Software,4-Low,Application Support - ERP,Closed,0
+INC0491,2026-04-02 21:08,2026-04-03 4:46,Intermittent packet loss to data center,Network,1-Critical,Network Operations,Resolved,0
+INC0492,2025-12-21 6:22,,Database backup job failed overnight,Database,3-Moderate,Cloud Infrastructure,On Hold,0
+INC0493,2025-12-30 7:39,2025-12-31 23:05,VPN tunnel dropping every 15 minutes,Network,4-Low,End User Computing,Closed,1
+INC0494,2026-02-11 7:28,,VPN client disconnecting frequently,Software,2-High,Application Support - ERP,On Hold,0
+INC0495,2025-12-28 12:26,2025-12-28 14:28,Outlook crashing on startup,Software,1-Critical,Application Support - ERP,Closed,0
+INC0496,2026-03-15 3:38,2026-03-17 8:00,Antivirus blocking legitimate application,Software,4-Low,Linux Server Team,Closed,0
+INC0497,2025-10-30 12:47,2025-11-02 23:44,Long running query blocking transactions,Database,2-High,Database Administration,Closed,0
+INC0498,2025-12-15 17:14,,Chrome browser freezing on launch,Software,2-High,Service Desk - Tier 1,On Hold,0
+INC0499,2026-01-07 8:08,,Deadlock errors on orders table,Database,4-Low,Application Support - ERP,On Hold,0
+INC0500,2026-04-06 13:00,2026-04-06 21:47,Laptop battery draining rapidly,Hardware,3-Moderate,End User Computing,Closed,0
+INC0501,2025-11-23 13:19,2025-11-28 13:24,Long running query blocking transactions,Database,3-Moderate,Database Administration,Closed,0
+INC0502,2025-11-08 22:11,2025-11-10 14:59,Network printer unreachable from VLAN,Network,4-Low,Cloud Infrastructure,Resolved,0
+INC0503,2026-03-31 12:31,2026-04-01 9:12,Outlook crashing on startup,Software,2-High,Cloud Infrastructure,Closed,0
+INC0504,2026-02-26 16:59,2026-03-03 8:02,Unable to connect to corporate WiFi,Network,4-Low,Desktop Support,Closed,0
+INC0505,2026-01-15 10:13,2026-01-17 0:41,Mouse cursor freezing,Hardware,3-Moderate,Security Operations,Closed,0
+INC0506,2026-04-11 7:15,2026-04-11 13:06,Intermittent packet loss to data center,Network,1-Critical,Service Desk - Tier 1,Closed,0
+INC0507,2025-11-10 2:26,2025-11-12 8:47,Docking station not detecting external display,Hardware,4-Low,Desktop Support,Closed,0
+INC0508,2025-10-25 6:06,2025-10-27 15:57,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Desktop Support,Resolved,0
+INC0509,2026-03-05 16:00,2026-03-08 20:55,Excel file corrupted on save,Software,4-Low,Application Support - ERP,Resolved,1
+INC0510,2025-12-22 6:02,2025-12-27 4:50,Hard drive making clicking noise,Hardware,4-Low,Desktop Support,Closed,0
+INC0511,2025-12-05 17:54,2025-12-08 10:41,Monitor flickering intermittently,Hardware,4-Low,Service Desk - Tier 1,Closed,0
+INC0512,2026-02-14 22:24,2026-02-15 5:28,Long running query blocking transactions,DB,1-Critical,Storage & Backup,Resolved,0
+INC0513,2026-04-05 0:00,2026-04-06 21:06,Antivirus blocking legitimate application,Software,3-Moderate,Database Administration,Closed,0
+INC0514,2026-03-10 17:55,2026-03-13 21:29,Monitor flickering intermittently,Hardware,4-Low,End User Computing,Closed,1
+INC0515,2025-11-12 14:10,2025-11-17 13:06,Failover cluster node not rejoining,Database,3-Moderate,Network Operations,Closed,0
+INC0516,2026-03-11 23:24,2026-03-12 14:48,Teams audio not working in meetings,Software,3-Moderate,Linux Server Team,Closed,1
+INC0517,2025-11-28 9:48,,Excel file corrupted on save,Software,2-High,Storage & Backup,On Hold,1
+INC0518,2025-11-12 4:08,2025-11-13 15:34,Network printer unreachable from VLAN,Network,4-Low,End User Computing,Closed,0
+INC0519,2026-02-15 6:43,2026-02-17 23:29,Antivirus blocking legitimate application,Software,4-Low,Windows Server Team,Closed,0
+INC0520,2026-01-24 20:05,,Scheduled maintenance plan did not run,Database,3-Moderate,Database Administration,On Hold,0
+INC0521,2025-11-17 21:19,2025-11-20 10:27,Keyboard keys unresponsive,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0522,2026-02-28 2:51,2026-03-02 13:35,SAP GUI timeout errors,Software,3-Moderate,Application Support - CRM,Resolved,0
+INC0523,2026-04-18 9:55,2026-04-18 11:45,Keyboard keys unresponsive,Hardware,1-Critical,Application Support - CRM,Closed,1
+INC0524,2025-12-22 10:10,2025-12-22 23:54,Load balancer reporting unhealthy nodes,Network,2-High,Application Support - ERP,Closed,0
+INC0525,2026-01-04 2:39,2026-01-07 1:14,Outlook crashing on startup,Software,3-Moderate,Desktop Support,Closed,0
+INC0526,2026-01-13 21:18,2026-01-15 3:47,Docking station not detecting external display,Hardware,3-Moderate,Windows Server Team,Closed,1
+INC0527,2026-02-04 7:12,2026-02-04 20:25,Docking station not detecting external display,Hardware,2-High,Service Desk - Tier 1,Closed,0
+INC0528,2026-02-10 22:13,2026-02-13 2:26,Hard drive making clicking noise,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0529,2025-11-06 9:01,,Scheduled maintenance plan did not run,Database,3-Moderate,Database Administration,On Hold,0
+INC0530,2026-03-16 0:06,2026-03-17 21:06,Network printer unreachable from VLAN,Network,3-Moderate,Cloud Infrastructure,Closed,0
+INC0531,2026-01-28 17:47,2026-01-29 0:25,Antivirus blocking legitimate application,Software,1-Critical,Application Support - CRM,Resolved,0
+INC0532,2025-11-27 23:20,2025-11-30 20:54,PowerBI report failing to refresh,Software,3-Moderate,Cloud Infrastructure,Closed,1
+INC0533,2025-11-30 17:05,2025-12-03 13:51,Failover cluster node not rejoining,Database,3-Moderate,Security Operations,Closed,1
+INC0534,2025-11-22 22:22,2025-11-23 14:24,Chrome browser freezing on launch,Software,2-High,Cloud Infrastructure,Closed,0
+INC0535,2025-10-29 22:26,2025-10-31 12:15,Production DB replication lag exceeding SLA,Database,3-Moderate,End User Computing,Resolved,0
+INC0536,2025-12-19 14:41,2025-12-22 1:34,Monitor flickering intermittently,Hardware,4-Low,Network Operations,Closed,1
+INC0537,2025-11-15 4:14,2025-11-18 1:00,Excel file corrupted on save,Software,3-Moderate,Database Administration,Closed,0
+INC0538,2026-03-17 1:40,2026-03-17 23:37,Cannot reach internal SharePoint site,Network,3-Moderate,Network Operations,Closed,0
+INC0539,2025-12-23 4:57,,Mouse cursor freezing,Hardware,3-Moderate,Network Operations,On Hold,0
+INC0540,2026-03-10 17:16,2026-03-15 8:10,Unable to connect to corporate WiFi,Network,4-Low,Linux Server Team,Closed,0
+INC0541,2026-03-07 19:06,2026-03-08 10:55,Windows update failing repeatedly,Software,3-Moderate,Service Desk - Tier 1,Resolved,2
+INC0542,2025-12-19 12:05,2025-12-23 0:42,Guest WiFi authentication failing,Network,4-Low,Cloud Infrastructure,Resolved,0
+INC0543,2026-01-10 22:32,2026-01-15 14:43,Keyboard keys unresponsive,Hardware,4-Low,Security Operations,Closed,0
+INC0544,2025-12-25 4:51,2025-12-25 16:11,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0545,2026-01-31 0:26,2026-01-31 19:47,Guest WiFi authentication failing,Network,2-High,Cloud Infrastructure,Closed,0
+INC0546,2026-02-14 21:40,2026-02-17 20:33,Connection pool exhaustion alerts,Database,2-High,Database Administration,Closed,2
+INC0547,2026-03-07 22:06,2026-03-11 7:45,Adobe Acrobat license expired error,Software,4-Low,Desktop Support,Closed,0
+INC0548,2026-01-18 20:25,,Laptop battery draining rapidly,Hardware,3-Moderate,Service Desk - Tier 1,On Hold,0
+INC0549,2026-03-16 16:40,2026-03-20 2:17,Teams audio not working in meetings,Software,4-Low,Linux Server Team,Closed,0
+INC0550,2025-12-12 14:04,2025-12-13 3:05,Excel file corrupted on save,Software,2-High,Service Desk - Tier 1,Closed,0
+INC0551,2026-01-05 5:13,2026-01-06 5:37,Intermittent packet loss to data center,Network,3-Moderate,Storage & Backup,Closed,0
+INC0552,2026-02-15 21:57,,Unable to connect to corporate WiFi,Network,4-Low,Service Desk - Tier 1,On Hold,0
+INC0553,2026-04-14 0:04,2026-04-19 22:52,Database backup job failed overnight,Database,3-Moderate,Network Operations,Closed,0
+INC0554,2025-11-16 13:55,2025-11-20 18:36,Tablespace reaching capacity threshold,Database,2-High,Application Support - CRM,Closed,0
+INC0555,2026-03-14 20:03,2026-03-15 13:44,Firewall blocking required application port,Network,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0556,2026-01-21 10:59,2026-01-24 6:20,PowerBI report failing to refresh,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0557,2025-11-26 19:54,,VPN client disconnecting frequently,Software,2-High,Cloud Infrastructure,On Hold,1
+INC0558,2026-02-10 14:03,2026-02-13 13:52,Adobe Acrobat license expired error,Software,4-Low,Service Desk - Tier 1,Closed,0
+INC0559,2026-04-03 6:35,,Hard drive making clicking noise,Hardware,3-Moderate,Desktop Support,On Hold,0
+INC0560,2025-10-23 21:03,2025-11-09 7:23,Connection pool exhaustion alerts,Database,4-Low,Network Operations,Resolved,1
+INC0561,2026-02-16 16:52,2026-02-16 20:33,Slow network performance in HQ floor 3,Network,1-Critical,Service Desk - Tier 1,Closed,0
+INC0562,2026-02-26 18:09,2026-03-01 3:38,Connection pool exhaustion alerts,Database,2-High,Database Administration,Resolved,0
+INC0563,2026-01-23 6:22,,Cannot reach internal SharePoint site,Network,3-Moderate,Application Support - ERP,On Hold,0
+INC0564,2026-01-13 11:23,2026-01-27 22:48,Index corruption detected on customer table,Database,3-Moderate,Application Support - ERP,Closed,0
+INC0565,2026-01-23 11:49,,Docking station not detecting external display,Hardware,3-Moderate,Desktop Support,On Hold,0
+INC0566,2025-11-01 0:25,2025-11-02 17:17,Firewall blocking required application port,Network,3-Moderate,Windows Server Team,Closed,0
+INC0567,2025-10-25 21:49,2025-10-26 17:18,Slow network performance in HQ floor 3,Network,3-Moderate,Network Operations,Resolved,0
+INC0568,2026-02-20 21:10,2026-02-23 15:55,Slow network performance in HQ floor 3,Network,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0569,2025-10-25 8:00,2025-10-25 10:12,Headset microphone not working,Hardware,1-Critical,Security Operations,Closed,0
+INC0570,2026-03-27 23:53,2026-03-24 2:40,Unable to connect to corporate WiFi,Network,4-Low,Network Operations,Resolved,0
+INC0571,2025-11-28 19:43,2025-11-29 13:12,VPN client disconnecting frequently,Software,3-Moderate,Linux Server Team,Resolved,0
+INC0572,2025-11-30 20:18,2025-12-08 13:42,Slow query performance on reporting DB,Database,4-Low,End User Computing,Resolved,1
+INC0573,2026-02-18 11:46,2026-02-21 3:18,Unable to connect to corporate WiFi,network,3-Moderate,Network Operations,Resolved,0
+INC0574,2025-11-14 10:59,,Laptop battery draining rapidly,Hardware,3-Moderate,Linux Server Team,On Hold,0
+INC0575,2025-11-29 1:43,2025-11-29 23:22,Index corruption detected on customer table,Database,1-Critical,Database Administration,Closed,0
+INC0576,2026-03-14 9:24,2026-03-20 8:39,Long running query blocking transactions,Database,4-Low,Windows Server Team,Resolved,0
+INC0577,2026-01-26 14:55,2026-01-27 1:56,Adobe Acrobat license expired error,Software,3-Moderate,Linux Server Team,Resolved,0
+INC0578,2025-12-05 18:27,2025-12-06 18:57,Laptop will not power on,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0579,2025-11-11 23:20,2025-11-14 19:13,Excel file corrupted on save,Software,4-Low,End User Computing,Resolved,0
+INC0580,2026-02-22 1:40,2026-02-22 3:29,Mouse cursor freezing,Hardware,1-Critical,Application Support - ERP,Closed,1
+INC0581,2026-04-05 12:44,2026-04-07 21:58,SAP GUI timeout errors,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0582,2026-02-21 23:24,2026-02-24 7:37,Webcam not recognized by system,Hardware,3-Moderate,Network Operations,Closed,0
+INC0583,2025-10-28 12:42,2025-11-04 17:44,Slow query performance on reporting DB,Database,3-Moderate,End User Computing,Resolved,0
+INC0584,2025-11-21 1:29,,Headset microphone not working,Hardware,1-Critical,Service Desk - Tier 1,On Hold,0
+INC0585,2026-04-10 9:01,2026-04-11 9:46,Load balancer reporting unhealthy nodes,Network,4-Low,Application Support - CRM,Resolved,0
+INC0586,2026-03-24 19:56,2026-03-27 11:27,Tablespace reaching capacity threshold,Database,2-High,Desktop Support,Closed,0
+INC0587,2026-02-04 18:15,2026-02-14 6:34,Production DB replication lag exceeding SLA,Database,3-Moderate,Storage & Backup,Closed,0
+INC0588,2026-01-28 20:45,2026-02-01 8:56,Unable to connect to corporate WiFi,Network,4-Low,Cloud Infrastructure,Resolved,2
+INC0589,2025-12-07 14:17,2025-12-16 14:07,Connection pool exhaustion alerts,Database,3-Moderate,Database Administration,Closed,0
+INC0590,2025-12-25 9:52,2025-12-27 19:42,Windows update failing repeatedly,Software,3-Moderate,Security Operations,Closed,0
+INC0591,2025-11-06 21:50,2025-11-07 12:22,Docking station not detecting external display,Hardware,2-High,Windows Server Team,Closed,0
+INC0592,2026-01-11 16:59,2026-01-24 17:37,Scheduled maintenance plan did not run,Database,4-Low,Network Operations,Resolved,0
+INC0593,2025-11-14 19:29,2025-11-25 1:41,Failover cluster node not rejoining,DB,4-Low,Database Administration,Closed,0
+INC0594,2026-02-14 5:50,2026-02-16 9:03,Firewall blocking required application port,Network,4-Low,Service Desk - Tier 1,Closed,0
+INC0595,2026-02-09 14:39,2026-02-10 22:47,Keyboard keys unresponsive,Hardware,3-Moderate,Storage & Backup,Resolved,0
+INC0596,2026-03-13 2:05,2026-03-20 20:58,Scheduled maintenance plan did not run,Database,3-Moderate,Desktop Support,Closed,0
+INC0597,2026-03-09 1:49,,Production DB replication lag exceeding SLA,Database,3-Moderate,Application Support - CRM,On Hold,0
+INC0598,2025-11-29 2:46,2025-11-29 17:36,Firewall blocking required application port,Network,2-High,Database Administration,Resolved,0
+INC0599,2026-04-01 20:38,2026-04-02 18:23,Windows update failing repeatedly,Software,2-High,Application Support - CRM,Closed,0
+INC0600,2026-02-02 6:12,2026-02-02 15:20,Keyboard keys unresponsive,Hardware,2-High,Desktop Support,Closed,0
+INC0601,2026-02-19 1:39,2026-02-21 7:18,VPN client disconnecting frequently,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0602,2025-12-08 6:43,2025-12-24 22:34,Production DB replication lag exceeding SLA,Database,4-Low,Database Administration,Closed,0
+INC0603,2026-04-12 19:47,2026-04-14 17:18,Keyboard keys unresponsive,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0604,2025-11-19 9:28,2025-11-21 19:31,Mouse cursor freezing,Hardware,3-Moderate,Database Administration,Resolved,0
+INC0605,2025-11-24 6:03,2025-12-03 4:30,Failover cluster node not rejoining,Database,3-Moderate,Security Operations,Resolved,0
+INC0606,2025-11-09 4:06,2025-11-09 21:02,Guest WiFi authentication failing,Net,3-Moderate,Network Operations,Closed,0
+INC0607,2026-03-17 21:48,2026-03-20 4:41,Network printer unreachable from VLAN,Network,4-Low,Network Operations,Resolved,1
+INC0608,2026-04-15 19:02,2026-04-15 20:06,Windows update failing repeatedly,Software,1-Critical,Application Support - CRM,Closed,0
+INC0609,2026-01-17 4:40,2026-01-21 12:06,Keyboard keys unresponsive,Hardware,4-Low,End User Computing,Resolved,1
+INC0610,2025-10-24 13:38,2025-10-25 15:37,Monitor flickering intermittently,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0611,2025-12-16 6:25,2025-12-18 5:12,Windows update failing repeatedly,Software,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0612,2026-03-02 6:33,2026-03-04 7:27,Connection pool exhaustion alerts,Database,2-High,Security Operations,Resolved,1
+INC0613,2026-03-06 7:32,,Load balancer reporting unhealthy nodes,Network,3-Moderate,Application Support - CRM,On Hold,0
+INC0614,2025-11-01 19:41,,Failover cluster node not rejoining,database,3-Moderate,Database Administration,On Hold,3
+INC0615,2026-01-31 4:35,2026-02-01 2:57,Firewall blocking required application port,Network,3-Moderate,Network Operations,Closed,0
+INC0616,2026-03-14 22:44,2026-03-17 20:02,Intermittent packet loss to data center,Network,3-Moderate,Network Operations,Closed,0
+INC0617,2026-02-21 8:45,2026-02-24 6:13,Laptop will not power on,hardware,4-Low,Storage & Backup,Resolved,0
+INC0618,2026-03-20 2:57,2026-03-25 0:30,Windows update failing repeatedly,Software,4-Low,Application Support - ERP,Resolved,1
+INC0619,2025-11-02 9:20,2025-11-02 12:26,Docking station not detecting external display,Hardware,1-Critical,End User Computing,Resolved,0
+INC0620,2025-10-24 19:25,2025-10-29 16:22,Production DB replication lag exceeding SLA,Database,3-Moderate,Database Administration,Resolved,0
+INC0621,2026-02-14 21:03,2026-02-15 3:34,Windows update failing repeatedly,Software,1-Critical,Application Support - CRM,Resolved,0
+INC0622,2025-12-22 6:28,2025-12-24 16:48,PowerBI report failing to refresh,Software,4-Low,Cloud Infrastructure,Closed,0
+INC0623,2026-01-31 6:33,,Network printer unreachable from VLAN,Network,2-High,Windows Server Team,On Hold,0
+INC0624,2026-01-12 16:56,,Adobe Acrobat license expired error,Software,4-Low,Network Operations,On Hold,0
+INC0625,2026-03-06 15:55,2026-03-08 20:13,Adobe Acrobat license expired error,Software,3-Moderate,Windows Server Team,Resolved,0
+INC0626,2026-01-27 1:12,,Chrome browser freezing on launch,Software,4-Low,Storage & Backup,On Hold,0
+INC0627,2026-03-20 22:45,2026-03-21 9:23,Outlook crashing on startup,Software,2-High,Application Support - ERP,Closed,0
+INC0628,2026-02-22 8:13,2026-02-23 3:32,Keyboard keys unresponsive,Hardware,2-High,Desktop Support,Closed,0
+INC0629,2025-10-26 22:09,2025-10-27 12:38,Excel file corrupted on save,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0630,2026-02-02 1:39,2026-02-16 11:52,Database backup job failed overnight,Database,4-Low,Cloud Infrastructure,Resolved,0
+INC0631,2026-02-23 6:38,2026-03-04 9:06,Failover cluster node not rejoining,Database,3-Moderate,Database Administration,Closed,0
+INC0632,2026-04-12 18:17,,Firewall blocking required application port,Network,4-Low,Network Operations,On Hold,0
+INC0633,2026-01-06 2:45,2026-01-13 13:02,Failover cluster node not rejoining,Database,3-Moderate,Application Support - ERP,Closed,0
+INC0634,2026-03-25 6:34,2026-03-30 9:49,Tablespace reaching capacity threshold,Database,3-Moderate,Database Administration,Resolved,0
+INC0635,2025-11-17 20:01,2025-11-19 13:13,PowerBI report failing to refresh,Software,3-Moderate,Windows Server Team,Resolved,0
+INC0636,2025-12-14 18:21,2025-12-18 15:59,Scheduled maintenance plan did not run,Database,3-Moderate,Application Support - ERP,Closed,0
+INC0637,2025-10-30 4:24,2025-10-30 15:04,Cannot reach internal SharePoint site,Network,2-High,Network Operations,Closed,0
+INC0638,2026-04-17 22:00,2026-04-20 7:17,Windows update failing repeatedly,Software,4-Low,Security Operations,Resolved,0
+INC0639,2025-11-20 17:42,2025-11-22 23:59,Headset microphone not working,Hardware,3-Moderate,Storage & Backup,Resolved,0
+INC0640,2026-01-14 0:19,2026-01-17 12:17,Connection pool exhaustion alerts,Database,2-High,Storage & Backup,Resolved,0
+INC0641,2025-12-05 12:51,2025-12-06 22:40,Hard drive making clicking noise,Hardware,3-Moderate,Windows Server Team,Closed,0
+INC0642,2025-12-25 21:04,,Headset microphone not working,Hardware,2-High,Linux Server Team,On Hold,0
+INC0643,2026-02-03 12:54,2026-02-06 7:15,Database backup job failed overnight,Database,2-High,Network Operations,Closed,0
+INC0644,2025-11-30 9:24,2025-12-01 11:33,Monitor flickering intermittently,Hardware,3-Moderate,Database Administration,Closed,0
+INC0645,2025-11-22 5:50,2025-11-26 5:10,Printer paper jam recurring,Hardware,4-Low,Service Desk - Tier 1,Closed,0
+INC0646,2026-02-11 10:07,2026-02-10 18:42,Long running query blocking transactions,Database,3-Moderate,Cloud Infrastructure,Closed,0
+INC0647,2026-01-20 2:42,,SAP GUI timeout errors,Software,4-Low,Application Support - CRM,On Hold,0
+INC0648,2026-04-04 8:59,2026-04-08 14:44,DNS resolution failures on finance subnet,Network,4-Low,Network Operations,Closed,0
+INC0649,2026-02-10 3:56,2026-02-25 22:37,Scheduled maintenance plan did not run,Database,4-Low,Database Administration,Closed,1
+INC0650,2025-11-15 6:58,2025-11-15 21:42,SAP GUI timeout errors,Software,3-Moderate,Desktop Support,Resolved,0
+INC0651,2026-03-17 8:01,2026-03-17 12:15,Docking station not detecting external display,Hardware,1-Critical,Service Desk - Tier 1,Resolved,1
+INC0652,2025-11-07 18:42,2025-11-10 15:30,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Network Operations,Closed,0
+INC0653,2025-11-24 11:02,2025-11-25 6:19,Printer paper jam recurring,Hardware,2-High,Security Operations,Resolved,1
+INC0654,2026-02-01 6:46,2026-02-01 12:15,Outlook crashing on startup,Software,1-Critical,Windows Server Team,Resolved,0
+INC0655,2025-12-08 1:40,2025-12-13 20:23,Long running query blocking transactions,Database,4-Low,Database Administration,Closed,1
+INC0656,2026-03-30 3:05,2026-03-30 6:22,Windows update failing repeatedly,Software,1-Critical,Desktop Support,Closed,0
+INC0657,2025-10-25 1:50,2025-10-25 5:33,Intermittent packet loss to data center,Network,1-Critical,Service Desk - Tier 1,Resolved,1
+INC0658,2025-11-11 12:29,,Scheduled maintenance plan did not run,Database,3-Moderate,Cloud Infrastructure,On Hold,1
+INC0659,2026-02-22 6:05,2026-02-22 23:38,Adobe Acrobat license expired error,Software,2-High,End User Computing,Closed,0
+INC0660,2026-01-04 23:58,2026-01-04 19:59,Monitor flickering intermittently,Hardware,3-Moderate,Desktop Support,Resolved,0
+INC0661,2025-12-19 8:19,2025-12-19 10:44,SAP GUI timeout errors,Software,1-Critical,Linux Server Team,Closed,0
+INC0662,2026-03-25 11:57,2026-03-26 14:14,Intermittent packet loss to data center,Network,4-Low,Network Operations,Closed,0
+INC0663,2026-03-05 5:16,2026-03-07 21:08,Laptop will not power on,Hardware,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0664,2025-11-16 3:09,,Excel file corrupted on save,Software,4-Low,Desktop Support,On Hold,0
+INC0665,2025-12-22 5:31,2025-12-22 7:40,Antivirus blocking legitimate application,Software,1-Critical,Application Support - CRM,Resolved,0
+INC0666,2025-12-31 13:46,,Guest WiFi authentication failing,Network,3-Moderate,Network Operations,On Hold,0
+INC0667,2026-03-30 21:37,2026-04-07 14:05,Tablespace reaching capacity threshold,Database,3-Moderate,Application Support - CRM,Resolved,0
+INC0668,2026-01-03 14:18,2026-01-04 19:38,Chrome browser freezing on launch,Software,3-Moderate,Service Desk - Tier 1,Closed,1
+INC0669,2026-03-15 20:52,,Intermittent packet loss to data center,Network,4-Low,Network Operations,On Hold,0
+INC0670,2026-01-05 11:25,,Headset microphone not working,Hardware,1-Critical,Desktop Support,On Hold,0
+INC0671,2026-03-09 10:46,2026-03-13 1:15,DNS resolution failures on finance subnet,Network,4-Low,Network Operations,Closed,0
+INC0672,2026-02-25 1:28,2026-02-27 21:54,Network printer unreachable from VLAN,Network,3-Moderate,Storage & Backup,Resolved,1
+INC0673,2026-01-05 9:11,2026-01-06 0:54,Webcam not recognized by system,Hardware,2-High,Desktop Support,Resolved,0
+INC0674,2026-02-13 13:19,,Cannot reach internal SharePoint site,Network,3-Moderate,Cloud Infrastructure,On Hold,0
+INC0675,2026-03-29 20:34,2026-04-01 16:05,Keyboard keys unresponsive,Hardware,3-Moderate,Storage & Backup,Resolved,0
+INC0676,2025-12-17 17:45,2025-12-19 1:44,Keyboard keys unresponsive,Hardware,3-Moderate,Application Support - ERP,Closed,0
+INC0677,2026-03-19 3:57,2026-03-19 6:18,Excel file corrupted on save,Software,1-Critical,Security Operations,Closed,0
+INC0678,2025-10-28 12:15,2025-10-29 1:48,Unable to connect to corporate WiFi,Network,2-High,Windows Server Team,Closed,0
+INC0679,2026-02-16 20:06,2026-02-17 21:07,Headset microphone not working,Hardware,3-Moderate,Network Operations,Closed,0
+INC0680,2026-02-28 21:29,,Guest WiFi authentication failing,Network,4-Low,Network Operations,On Hold,0
+INC0681,2026-04-09 19:01,2026-04-11 8:20,Load balancer reporting unhealthy nodes,Network,4-Low,Network Operations,Closed,0
+INC0682,2026-01-23 0:35,2026-01-23 8:47,Adobe Acrobat license expired error,Software,3-Moderate,Service Desk - Tier 1,Resolved,0
+INC0683,2025-12-07 2:27,2025-12-09 1:40,Laptop battery draining rapidly,Hardware,3-Moderate,End User Computing,Resolved,1
+INC0684,2025-11-19 13:10,2025-11-20 10:42,Laptop battery draining rapidly,Hardware,2-High,Storage & Backup,Closed,0
+INC0685,2026-02-28 10:08,2026-03-04 10:33,Production DB replication lag exceeding SLA,Database,3-Moderate,Database Administration,Closed,1
+INC0686,2026-01-23 5:43,2026-01-26 19:03,Failover cluster node not rejoining,Database,2-High,Storage & Backup,Closed,2
+INC0687,2026-03-14 16:01,2026-03-17 2:15,Printer paper jam recurring,Hardware,3-Moderate,Desktop Support,Resolved,0
+INC0688,2025-11-28 6:52,2025-11-29 14:24,Headset microphone not working,Hardware,3-Moderate,Security Operations,Resolved,0
+INC0689,2026-01-01 15:08,2026-01-05 6:51,Excel file corrupted on save,Software,4-Low,Application Support - ERP,Closed,0
+INC0690,2025-12-04 6:10,2025-12-12 4:02,Production DB replication lag exceeding SLA,Database,4-Low,Application Support - CRM,Closed,0
+INC0691,2026-02-22 7:01,2026-02-24 19:11,Hard drive making clicking noise,Hardware,4-Low,Desktop Support,Resolved,0
+INC0692,2025-11-26 12:17,,SAP GUI timeout errors,Software,1-Critical,Linux Server Team,On Hold,0
+INC0693,2026-03-03 9:14,2026-03-04 18:17,Teams audio not working in meetings,Software,3-Moderate,Linux Server Team,Closed,0
+INC0694,2026-04-08 21:10,2026-04-16 15:38,Index corruption detected on customer table,Database,3-Moderate,Database Administration,Resolved,0
+INC0695,2026-01-01 2:05,2026-01-01 17:36,Windows update failing repeatedly,Software,2-High,Linux Server Team,Resolved,0
+INC0696,2025-11-01 22:32,2025-11-04 16:11,Webcam not recognized by system,Hardware,4-Low,Desktop Support,Closed,0
+INC0697,2026-02-26 12:15,,Slow query performance on reporting DB,Database,3-Moderate,Cloud Infrastructure,On Hold,3
+INC0698,2025-12-15 4:35,2025-12-16 15:47,Mouse cursor freezing,Hardware,4-Low,Desktop Support,Resolved,0
+INC0699,2025-11-26 21:58,2025-12-04 8:47,Scheduled maintenance plan did not run,Database,3-Moderate,Database Administration,Resolved,1
+INC0700,2026-02-02 16:23,2026-02-06 12:54,Monitor flickering intermittently,Hardware,4-Low,Storage & Backup,Resolved,0
+INC0701,2026-02-07 11:11,2026-02-07 21:41,Monitor flickering intermittently,Hardware,3-Moderate,Application Support - CRM,Closed,1
+INC0702,2026-02-05 11:12,2026-02-06 10:45,Mouse cursor freezing,Hardware,2-High,End User Computing,Closed,0
+INC0703,2026-04-17 14:33,2026-04-20 18:00,Deadlock errors on orders table,Database,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0704,2025-12-31 11:21,2026-01-01 22:22,VPN client disconnecting frequently,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0705,2025-12-01 7:36,2025-12-05 2:29,Intermittent packet loss to data center,Network,4-Low,Application Support - ERP,Closed,0
+INC0706,2026-01-14 22:50,,Windows update failing repeatedly,Software,2-High,Service Desk - Tier 1,On Hold,0
+INC0707,2026-01-09 17:44,2026-01-11 0:57,Printer paper jam recurring,Hardware,3-Moderate,Desktop Support,Resolved,0
+INC0708,2025-11-25 20:58,,PowerBI report failing to refresh,Software,2-High,Linux Server Team,On Hold,0
+INC0709,2025-12-16 12:11,2026-01-01 9:59,Failover cluster node not rejoining,Database,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0710,2026-01-30 11:23,2026-02-02 4:35,Failover cluster node not rejoining,Database,2-High,Linux Server Team,Closed,0
+INC0711,2026-03-26 19:08,,Index corruption detected on customer table,Database,2-High,Application Support - ERP,On Hold,0
+INC0712,2025-12-06 4:07,,Tablespace reaching capacity threshold,Database,3-Moderate,Application Support - CRM,On Hold,0
+INC0713,2025-11-07 4:22,2025-11-07 18:22,Cannot reach internal SharePoint site,Network,3-Moderate,Application Support - ERP,Closed,0
+INC0714,2026-03-13 15:45,2026-03-15 19:36,Monitor flickering intermittently,Hardware,3-Moderate,Network Operations,Closed,0
+INC0715,2025-12-09 4:10,2025-12-11 23:05,Headset microphone not working,Hardware,3-Moderate,Service Desk - Tier 1,Resolved,0
+INC0716,2025-12-05 10:53,2025-12-07 20:48,SAP GUI timeout errors,Software,4-Low,Application Support - ERP,Closed,0
+INC0717,2026-04-05 22:54,2026-04-07 2:03,Headset microphone not working,Hardware,3-Moderate,Network Operations,Resolved,1
+INC0718,2025-11-02 21:57,2025-10-30 8:16,Keyboard keys unresponsive,Hardware,4-Low,Network Operations,Resolved,0
+INC0719,2025-11-21 14:20,2025-11-25 1:50,Failover cluster node not rejoining,Database,2-High,Database Administration,Closed,0
+INC0720,2026-02-27 4:29,,SAP GUI timeout errors,Software,2-High,Desktop Support,On Hold,0
+INC0721,2025-10-30 13:36,2025-11-02 3:41,Tablespace reaching capacity threshold,Data Base,2-High,Network Operations,Closed,0
+INC0722,2026-03-20 4:19,2026-04-01 14:37,Long running query blocking transactions,Database,3-Moderate,Cloud Infrastructure,Closed,0
+INC0723,2026-03-03 11:09,2026-03-04 11:55,Cannot reach internal SharePoint site,Network,4-Low,Network Operations,Closed,0
+INC0724,2025-12-16 8:12,2025-12-19 7:50,Chrome browser freezing on launch,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0725,2026-04-06 17:59,2026-04-07 16:40,Printer paper jam recurring,Hardware,3-Moderate,End User Computing,Closed,0
+INC0726,2025-12-21 6:08,2025-12-21 12:02,Windows update failing repeatedly,Software,1-Critical,Windows Server Team,Closed,0
+INC0727,2025-12-09 16:57,2025-12-10 21:57,DNS resolution failures on finance subnet,Network,4-Low,Network Operations,Resolved,0
+INC0728,2025-12-26 15:52,2025-12-26 21:48,Hard drive making clicking noise,Hardware,2-High,Desktop Support,Closed,1
+INC0729,2025-11-08 16:31,2025-11-08 23:08,DNS resolution failures on finance subnet,Network,2-High,Network Operations,Resolved,0
+INC0730,2026-03-12 14:22,2026-03-14 8:31,Webcam not recognized by system,Hardware,3-Moderate,Application Support - CRM,Closed,0
+INC0731,2026-04-17 14:51,2026-04-19 8:23,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Application Support - CRM,Resolved,0
+INC0732,2026-03-06 11:21,2026-03-09 14:28,Excel file corrupted on save,Software,4-Low,Desktop Support,Closed,0
+INC0733,2025-12-01 22:20,2025-12-07 2:01,Index corruption detected on customer table,Database,3-Moderate,Application Support - ERP,Resolved,0
+INC0734,2026-02-06 23:12,2026-02-07 7:41,Cannot reach internal SharePoint site,Network,2-High,Storage & Backup,Resolved,0
+INC0735,2026-02-03 13:23,2026-02-04 6:21,Mouse cursor freezing,Hardware,2-High,Desktop Support,Resolved,0
+INC0736,2026-03-31 17:48,2026-03-29 2:00,Network printer unreachable from VLAN,Network,1-Critical,Desktop Support,Resolved,0
+INC0737,2026-02-17 2:26,2026-02-21 2:56,Slow query performance on reporting DB,Database,2-High,Database Administration,Resolved,0
+INC0738,2025-11-26 23:54,2025-12-16 2:39,Tablespace reaching capacity threshold,Database,4-Low,Service Desk - Tier 1,Closed,0
+INC0739,2025-11-19 14:51,2025-11-22 9:02,PowerBI report failing to refresh,Software,3-Moderate,Desktop Support,Closed,0
+INC0740,2026-04-01 6:03,2026-04-04 1:52,Docking station not detecting external display,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0741,2026-02-05 1:37,2026-02-05 7:46,Headset microphone not working,Hardware,1-Critical,End User Computing,Resolved,1
+INC0742,2026-03-06 3:08,2026-03-06 18:01,Slow network performance in HQ floor 3,Network,2-High,Database Administration,Closed,1
+INC0743,2025-11-20 8:49,2025-11-20 12:17,Excel file corrupted on save,SW,1-Critical,Application Support - CRM,Closed,3
+INC0744,2026-02-19 7:21,2026-02-20 15:29,VPN client disconnecting frequently,Software,4-Low,Desktop Support,Closed,0
+INC0745,2025-12-20 7:23,2025-12-20 17:07,Adobe Acrobat license expired error,Software,2-High,End User Computing,Resolved,1
+INC0746,2026-03-22 18:44,,Keyboard keys unresponsive,Hardware,4-Low,Desktop Support,On Hold,0
+INC0747,2026-03-12 20:42,2026-03-13 20:50,Slow query performance on reporting DB,Database,2-High,Application Support - ERP,Closed,2
+INC0748,2026-01-05 3:46,,Guest WiFi authentication failing,Network,4-Low,Application Support - ERP,On Hold,0
+INC0749,2026-02-12 13:29,2026-02-28 2:10,Failover cluster node not rejoining,Database,4-Low,Service Desk - Tier 1,Closed,3
+INC0750,2025-11-13 3:21,2025-11-15 17:41,Docking station not detecting external display,Hardware,3-Moderate,Database Administration,Closed,1
+INC0751,2025-11-18 12:12,2025-12-08 12:25,Production DB replication lag exceeding SLA,Database,4-Low,Linux Server Team,Closed,0
+INC0752,2025-11-20 6:32,2025-11-20 19:28,Keyboard keys unresponsive,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0753,2026-01-10 15:50,2026-01-12 17:06,Outlook crashing on startup,Software,3-Moderate,Security Operations,Closed,0
+INC0754,2026-03-03 18:34,2026-03-04 2:13,Teams audio not working in meetings,Software,1-Critical,Linux Server Team,Resolved,0
+INC0755,2025-11-16 1:09,2025-11-16 13:10,PowerBI report failing to refresh,Software,2-High,Windows Server Team,Closed,0
+INC0756,2026-01-04 15:07,2026-01-11 11:20,Connection pool exhaustion alerts,Database,3-Moderate,Cloud Infrastructure,Closed,0
+INC0757,2026-02-15 16:44,2026-02-16 12:45,Chrome browser freezing on launch,Software,3-Moderate,Application Support - ERP,Closed,2
+INC0758,2025-12-22 20:03,2025-12-26 20:12,Mouse cursor freezing,Hardware,4-Low,Desktop Support,Closed,0
+INC0759,2026-01-09 20:05,2026-01-06 15:15,Firewall blocking required application port,Network,3-Moderate,Application Support - ERP,Closed,1
+INC0760,2026-02-21 7:09,2026-02-23 23:45,VPN tunnel dropping every 15 minutes,Network,3-Moderate,End User Computing,Closed,0
+INC0761,2026-02-20 19:35,2026-02-21 8:12,DNS resolution failures on finance subnet,Network,2-High,End User Computing,Closed,0
+INC0762,2025-10-25 15:38,2025-10-30 12:39,Excel file corrupted on save,Software,4-Low,Application Support - CRM,Closed,0
+INC0763,2026-01-01 7:13,2026-01-01 12:39,Teams audio not working in meetings,Software,2-High,Cloud Infrastructure,Closed,0
+INC0764,2026-01-01 7:54,2026-01-05 23:56,Adobe Acrobat license expired error,Software,4-Low,Application Support - CRM,Closed,0
+INC0765,2025-12-12 18:51,2025-12-13 5:35,DNS resolution failures on finance subnet,Network,3-Moderate,Linux Server Team,Closed,0
+INC0766,2026-01-08 6:46,2026-01-08 15:14,SAP GUI timeout errors,Software,2-High,Windows Server Team,Closed,1
+INC0767,2026-04-19 21:07,2026-04-20 18:00,Deadlock errors on orders table,Database,2-High,Linux Server Team,Closed,0
+INC0768,2025-11-20 0:08,,DNS resolution failures on finance subnet,Network,3-Moderate,Network Operations,On Hold,0
+INC0769,2026-01-22 16:14,2026-02-08 21:34,Database backup job failed overnight,Database,4-Low,Desktop Support,Resolved,0
+INC0770,2026-01-12 6:02,2026-01-26 10:00,Failover cluster node not rejoining,Database,4-Low,End User Computing,Closed,0
+INC0771,2026-03-05 12:10,2026-03-07 0:08,Outlook crashing on startup,Software,3-Moderate,Application Support - CRM,Closed,1
+INC0772,2025-12-24 14:42,2025-12-26 21:42,Outlook crashing on startup,Software,3-Moderate,Desktop Support,Resolved,0
+INC0773,2026-03-02 14:48,2026-03-02 23:02,VPN client disconnecting frequently,Software,3-Moderate,Windows Server Team,Resolved,0
+INC0774,2026-02-05 18:56,2026-02-07 15:05,Headset microphone not working,Hard Ware,4-Low,End User Computing,Closed,0
+INC0775,2026-03-07 13:03,,Firewall blocking required application port,network,3-Moderate,Windows Server Team,On Hold,0
+INC0776,2026-03-20 7:32,2026-03-31 22:11,Slow query performance on reporting DB,Database,4-Low,Database Administration,Closed,1
+INC0777,2026-04-16 15:43,,Long running query blocking transactions,Database,3-Moderate,End User Computing,On Hold,1
+INC0778,2025-11-11 21:09,,Laptop battery draining rapidly,Hardware,1-Critical,Storage & Backup,On Hold,0
+INC0779,2026-03-01 9:45,2026-03-02 8:01,Printer paper jam recurring,Hardware,3-Moderate,End User Computing,Resolved,2
+INC0780,2026-03-31 1:25,2026-04-04 19:37,Load balancer reporting unhealthy nodes,Network,4-Low,Network Operations,Closed,1
+INC0781,2026-03-02 11:48,,DNS resolution failures on finance subnet,Network,4-Low,Service Desk - Tier 1,On Hold,1
+INC0782,2026-01-31 12:32,2026-02-05 8:37,Printer paper jam recurring,HW,4-Low,Application Support - CRM,Resolved,0
+INC0783,2025-11-16 18:34,2025-11-27 2:31,Deadlock errors on orders table,Database,4-Low,Network Operations,Resolved,1
+INC0784,2026-02-21 13:30,2026-02-23 20:27,Laptop will not power on,Hardware,4-Low,Database Administration,Resolved,0
+INC0785,2026-02-10 18:45,,Windows update failing repeatedly,Soft-Ware,3-Moderate,Service Desk - Tier 1,On Hold,0
+INC0786,2026-02-26 10:58,2026-03-09 0:52,Tablespace reaching capacity threshold,Database,4-Low,Windows Server Team,Closed,0
+INC0787,2025-11-11 19:58,2025-11-12 11:49,VPN client disconnecting frequently,Software,3-Moderate,Service Desk - Tier 1,Resolved,0
+INC0788,2026-03-26 5:01,2026-03-26 10:29,Guest WiFi authentication failing,Network,2-High,Security Operations,Closed,0
+INC0789,2025-11-26 10:41,2025-11-29 5:39,Connection pool exhaustion alerts,Database,2-High,Application Support - CRM,Closed,0
+INC0790,2025-10-27 5:21,2025-10-28 0:35,Unable to connect to corporate WiFi,Network,2-High,Network Operations,Closed,0
+INC0791,2025-12-29 10:22,,PowerBI report failing to refresh,Software,3-Moderate,Windows Server Team,On Hold,0
+INC0792,2025-12-10 7:31,,Database backup job failed overnight,Database,4-Low,Database Administration,On Hold,1
+INC0793,2026-02-13 20:18,2026-02-14 16:11,Guest WiFi authentication failing,Network,2-High,Application Support - CRM,Resolved,0
+INC0794,2026-02-09 21:04,2026-02-12 9:30,Load balancer reporting unhealthy nodes,Network,3-Moderate,Network Operations,Closed,0
+INC0795,2026-01-14 3:05,2026-01-14 14:14,Intermittent packet loss to data center,Network,2-High,Desktop Support,Resolved,0
+INC0796,2025-12-24 4:35,2025-12-24 19:49,Monitor flickering intermittently,Hardware,2-High,Application Support - CRM,Resolved,0
+INC0797,2026-01-15 6:12,2026-01-16 2:49,Docking station not detecting external display,Hardware,3-Moderate,Network Operations,Resolved,0
+INC0798,2025-10-26 21:07,2025-10-29 11:54,Teams audio not working in meetings,Software,3-Moderate,Desktop Support,Closed,2
+INC0799,2026-02-24 22:52,2026-02-27 14:43,Hard drive making clicking noise,Hardware,4-Low,Storage & Backup,Closed,0
+INC0800,2026-01-19 0:30,2026-01-19 4:57,Slow network performance in HQ floor 3,Network,1-Critical,Service Desk - Tier 1,Closed,0
+INC0801,2026-03-12 9:15,,Webcam not recognized by system,Hardware,4-Low,Desktop Support,On Hold,0
+INC0802,2026-03-05 9:26,2026-03-07 19:40,Slow network performance in HQ floor 3,Network,3-Moderate,Network Operations,Closed,0
+INC0803,2026-01-20 4:59,2026-01-22 14:38,Index corruption detected on customer table,Database,2-High,Windows Server Team,Closed,0
+INC0804,2025-12-24 6:12,,SAP GUI timeout errors,Software,3-Moderate,Database Administration,On Hold,0
+INC0805,2025-12-08 19:33,2025-12-09 16:43,Unable to connect to corporate WiFi,Network,3-Moderate,Network Operations,Resolved,0
+INC0806,2025-12-02 6:25,2025-12-06 22:36,Database backup job failed overnight,Database,2-High,Security Operations,Closed,0
+INC0807,2026-04-09 6:30,,Antivirus blocking legitimate application,Software,3-Moderate,Application Support - CRM,On Hold,0
+INC0808,2026-04-09 15:42,2026-04-11 5:12,Outlook crashing on startup,Software,3-Moderate,Storage & Backup,Resolved,0
+INC0809,2025-11-14 17:26,2025-11-16 5:03,Mouse cursor freezing,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0810,2026-01-12 19:24,2026-01-13 14:42,Load balancer reporting unhealthy nodes,Network,3-Moderate,Network Operations,Resolved,0
+INC0811,2025-10-29 16:19,2025-10-30 1:05,Windows update failing repeatedly,Software,2-High,Application Support - ERP,Closed,0
+INC0812,2026-02-23 10:09,2026-02-24 2:05,Network printer unreachable from VLAN,Network,2-High,Network Operations,Closed,0
+INC0813,2025-12-26 5:57,2025-12-26 14:46,VPN client disconnecting frequently,Software,3-Moderate,End User Computing,Closed,1
+INC0814,2026-01-22 18:12,2026-01-24 4:42,Antivirus blocking legitimate application,Software,4-Low,Linux Server Team,Resolved,0
+INC0815,2025-11-09 23:39,2025-11-10 19:43,PowerBI report failing to refresh,Software,2-High,Database Administration,Closed,0
+INC0816,2025-12-26 13:20,2025-12-31 3:56,Slow network performance in HQ floor 3,Network,4-Low,Network Operations,Closed,0
+INC0817,2025-11-19 6:03,2025-11-21 3:01,Printer paper jam recurring,Hardware,3-Moderate,Storage & Backup,Closed,0
+INC0818,2026-03-03 13:26,,Scheduled maintenance plan did not run,Database,4-Low,Storage & Backup,On Hold,0
+INC0819,2026-01-06 16:18,,Antivirus blocking legitimate application,Software,3-Moderate,Application Support - ERP,On Hold,3
+INC0820,2026-04-02 17:31,2026-04-04 6:38,Cannot reach internal SharePoint site,Network,3-Moderate,Desktop Support,Resolved,0
+INC0821,2026-02-20 21:05,,PowerBI report failing to refresh,Software,2-High,Windows Server Team,On Hold,0
+INC0822,2025-12-03 22:48,2025-12-04 14:40,Unable to connect to corporate WiFi,Network,2-High,Service Desk - Tier 1,Closed,0
+INC0823,2026-02-08 15:16,,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Storage & Backup,On Hold,0
+INC0824,2025-11-07 10:10,2025-11-07 14:48,Windows update failing repeatedly,Software,2-High,Application Support - ERP,Resolved,2
+INC0825,2025-11-25 9:38,2025-11-28 17:08,Printer paper jam recurring,Hardware,4-Low,Desktop Support,Resolved,0
+INC0826,2026-02-21 18:10,2026-02-22 1:50,PowerBI report failing to refresh,Software,2-High,Application Support - ERP,Resolved,0
+INC0827,2026-01-10 9:56,2026-01-10 19:38,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Application Support - CRM,Closed,0
+INC0828,2026-04-15 11:53,2026-04-17 20:14,Outlook crashing on startup,Software,3-Moderate,Application Support - CRM,Resolved,0
+INC0829,2026-02-25 22:39,2026-03-01 7:14,Long running query blocking transactions,Database,2-High,Cloud Infrastructure,Closed,0
+INC0830,2026-01-26 22:17,2026-01-28 23:13,Laptop will not power on,Hardware,3-Moderate,Storage & Backup,Resolved,0
+INC0831,2025-11-15 6:03,2025-11-15 10:41,Windows update failing repeatedly,Software,1-Critical,Service Desk - Tier 1,Resolved,0
+INC0832,2026-04-05 8:42,2026-04-09 11:50,Production DB replication lag exceeding SLA,Database,2-High,Database Administration,Closed,1
+INC0833,2026-01-23 5:03,2026-01-23 19:27,Teams audio not working in meetings,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0834,2025-12-16 18:50,2025-12-18 23:54,Headset microphone not working,Hardware,4-Low,Database Administration,Closed,1
+INC0835,2025-12-15 12:27,2025-12-17 4:30,Load balancer reporting unhealthy nodes,Network,3-Moderate,Network Operations,Resolved,0
+INC0836,2026-03-10 14:59,2026-03-13 1:13,Excel file corrupted on save,Software,3-Moderate,Storage & Backup,Closed,0
+INC0837,2026-03-09 7:51,2026-03-16 5:12,Failover cluster node not rejoining,Database,3-Moderate,Application Support - CRM,Closed,1
+INC0838,2025-11-12 9:01,2025-11-13 2:36,Printer paper jam recurring,Hard Ware,2-High,Service Desk - Tier 1,Closed,1
+INC0839,2026-02-18 13:40,2026-02-28 4:32,Production DB replication lag exceeding SLA,Database,3-Moderate,Storage & Backup,Closed,0
+INC0840,2025-11-30 12:49,2025-12-10 11:24,Scheduled maintenance plan did not run,Database,4-Low,Cloud Infrastructure,Resolved,0
+INC0841,2026-03-29 0:54,2026-03-31 10:28,Hard drive making clicking noise,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0842,2026-01-28 0:07,2026-01-30 4:32,Slow query performance on reporting DB,Database,2-High,Storage & Backup,Resolved,0
+INC0843,2025-12-06 12:33,2025-12-07 3:21,Teams audio not working in meetings,Software,2-High,Application Support - ERP,Closed,0
+INC0844,2026-04-06 10:10,2026-04-06 14:48,Excel file corrupted on save,Software,1-Critical,Application Support - CRM,Resolved,2
+INC0845,2025-11-30 16:27,2025-11-30 19:47,Unable to connect to corporate WiFi,Network,1-Critical,Network Operations,Closed,0
+INC0846,2026-03-15 7:20,2026-03-15 12:37,Laptop will not power on,Hardware,1-Critical,Service Desk - Tier 1,Closed,0
+INC0847,2026-04-05 18:30,2026-04-08 14:06,Chrome browser freezing on launch,Software,3-Moderate,Application Support - CRM,Closed,1
+INC0848,2026-03-06 18:59,2026-03-06 20:51,Headset microphone not working,Hardware,1-Critical,End User Computing,Resolved,0
+INC0849,2025-11-09 14:42,2025-11-14 3:59,Antivirus blocking legitimate application,Software,4-Low,Service Desk - Tier 1,Closed,1
+INC0850,2025-11-26 19:37,2025-11-26 22:36,VPN client disconnecting frequently,Software,1-Critical,Windows Server Team,Closed,0
+INC0851,2025-12-01 17:22,,Laptop battery draining rapidly,Hardware,1-Critical,Security Operations,On Hold,1
+INC0852,2026-02-06 19:44,2026-02-08 13:27,PowerBI report failing to refresh,Software,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0853,2025-12-01 6:38,2025-12-09 7:15,Database backup job failed overnight,Database,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0854,2026-01-27 15:04,2026-02-07 20:10,Connection pool exhaustion alerts,Database,3-Moderate,Database Administration,Closed,0
+INC0855,2025-11-27 13:29,2025-11-28 19:12,Connection pool exhaustion alerts,Database,1-Critical,Cloud Infrastructure,Closed,0
+INC0856,2025-12-27 22:54,2025-12-30 14:19,Unable to connect to corporate WiFi,Network,3-Moderate,Cloud Infrastructure,Resolved,0
+INC0857,2026-02-10 22:31,2026-02-15 18:42,DNS resolution failures on finance subnet,Network,4-Low,Desktop Support,Closed,0
+INC0858,2025-12-27 7:00,2025-12-27 11:47,Network printer unreachable from VLAN,Network,2-High,Service Desk - Tier 1,Closed,0
+INC0859,2025-10-26 2:28,2025-10-29 0:34,DNS resolution failures on finance subnet,Network,4-Low,Network Operations,Closed,0
+INC0860,2025-11-04 4:27,2025-11-06 14:48,Printer paper jam recurring,Hardware,3-Moderate,Linux Server Team,Closed,0
+INC0861,2026-01-29 3:28,2026-01-29 14:10,Docking station not detecting external display,Hardware,3-Moderate,End User Computing,Closed,0
+INC0862,2025-11-12 22:44,2025-11-13 0:16,Intermittent packet loss to data center,Network,1-Critical,Security Operations,Closed,0
+INC0863,2025-12-25 3:47,2025-12-29 17:56,Docking station not detecting external display,Hardware,4-Low,Linux Server Team,Closed,0
+INC0864,2025-11-12 9:04,2025-11-13 5:14,Headset microphone not working,Hardware,2-High,Security Operations,Resolved,2
+INC0865,2026-01-04 18:00,2026-01-06 7:53,Connection pool exhaustion alerts,Database,1-Critical,Application Support - CRM,Resolved,0
+INC0866,2026-01-22 11:12,2026-01-23 15:29,Printer paper jam recurring,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0867,2026-03-06 7:57,,DNS resolution failures on finance subnet,Network,3-Moderate,Network Operations,On Hold,2
+INC0868,2026-04-18 8:30,2026-04-20 18:00,Database backup job failed overnight,Database,3-Moderate,Storage & Backup,Closed,0
+INC0869,2026-03-26 6:57,2026-03-29 13:35,Deadlock errors on orders table,Database,3-Moderate,Storage & Backup,Resolved,1
+INC0870,2026-03-09 21:16,2026-03-10 13:22,Keyboard keys unresponsive,Hardware,3-Moderate,End User Computing,Resolved,0
+INC0871,2026-02-07 21:31,2026-02-12 20:02,Long running query blocking transactions,Database,3-Moderate,End User Computing,Closed,0
+INC0872,2026-03-15 13:54,2026-03-17 2:49,Network printer unreachable from VLAN,Network,4-Low,Storage & Backup,Resolved,2
+INC0873,2026-03-02 14:38,2026-03-02 20:10,Monitor flickering intermittently,Hardware,1-Critical,Desktop Support,Resolved,0
+INC0874,2026-04-04 15:37,2026-04-08 16:19,Laptop will not power on,Hardware,4-Low,Storage & Backup,Resolved,0
+INC0875,2025-12-22 19:03,,Excel file corrupted on save,Software,2-High,Application Support - ERP,On Hold,0
+INC0876,2025-12-17 18:24,,Cannot reach internal SharePoint site,Network,3-Moderate,End User Computing,On Hold,0
+INC0877,2026-04-03 15:02,2026-04-03 22:25,PowerBI report failing to refresh,Software,2-High,Cloud Infrastructure,Closed,0
+INC0878,2026-01-13 13:38,,Laptop battery draining rapidly,Hardware,2-High,Application Support - ERP,On Hold,1
+INC0879,2025-11-15 0:57,,Firewall blocking required application port,Network,3-Moderate,Security Operations,On Hold,0
+INC0880,2025-11-14 8:45,2025-11-16 6:06,Keyboard keys unresponsive,Hardware,4-Low,Application Support - ERP,Resolved,0
+INC0881,2026-01-14 21:41,,Monitor flickering intermittently,Hardware,3-Moderate,End User Computing,On Hold,0
+INC0882,2026-02-21 7:44,2026-02-21 16:15,DNS resolution failures on finance subnet,Network,3-Moderate,Windows Server Team,Resolved,0
+INC0883,2025-11-17 8:11,2025-11-18 5:42,Outlook crashing on startup,Software,2-High,Application Support - ERP,Closed,0
+INC0884,2026-02-18 20:32,2026-02-19 0:12,VPN client disconnecting frequently,Software,1-Critical,Security Operations,Resolved,1
+INC0885,2026-02-15 20:08,2026-02-16 10:19,Cannot reach internal SharePoint site,Network,3-Moderate,Network Operations,Resolved,0
+INC0886,2025-12-23 16:12,2025-12-24 3:09,SAP GUI timeout errors,Software,2-High,Windows Server Team,Closed,0
+INC0887,2026-03-23 18:14,,Webcam not recognized by system,Hardware,3-Moderate,Service Desk - Tier 1,On Hold,0
+INC0888,2026-01-13 7:34,2026-01-14 8:44,Unable to connect to corporate WiFi,Network,3-Moderate,Network Operations,Resolved,0
+INC0889,2026-02-18 20:12,2026-02-17 6:33,Adobe Acrobat license expired error,Software,4-Low,Storage & Backup,Closed,0
+INC0890,2025-11-30 6:47,2025-12-01 16:06,Keyboard keys unresponsive,Hardware,3-Moderate,End User Computing,Closed,0
+INC0891,2026-04-04 22:13,2026-04-05 21:02,VPN client disconnecting frequently,Software,2-High,Application Support - ERP,Closed,0
+INC0892,2026-02-26 23:48,2026-02-27 20:10,PowerBI report failing to refresh,Soft-Ware,2-High,Linux Server Team,Resolved,0
+INC0893,2025-11-21 5:39,2025-12-15 8:45,Slow query performance on reporting DB,Data Base,4-Low,Application Support - ERP,Resolved,0
+INC0894,2026-02-11 15:17,,Firewall blocking required application port,Network,2-High,Network Operations,On Hold,0
+INC0895,2026-04-17 0:01,2026-04-18 8:30,Adobe Acrobat license expired error,Software,3-Moderate,Cloud Infrastructure,Closed,0
+INC0896,2025-12-06 19:44,2025-12-14 12:24,Long running query blocking transactions,Database,4-Low,Network Operations,Closed,0
+INC0897,2026-04-03 11:41,2026-04-07 13:34,Tablespace reaching capacity threshold,Database,2-High,Cloud Infrastructure,Closed,1
+INC0898,2025-10-23 19:57,2025-10-25 15:57,Printer paper jam recurring,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0899,2025-11-16 11:10,2025-11-18 19:03,Monitor flickering intermittently,Hardware,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0900,2026-04-10 12:08,2026-04-11 15:07,Teams audio not working in meetings,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0901,2026-03-04 18:26,2026-03-05 10:43,Firewall blocking required application port,Network,2-High,Network Operations,Closed,0
+INC0902,2025-12-23 10:32,2025-12-23 22:49,Chrome browser freezing on launch,Software,3-Moderate,Network Operations,Closed,0
+INC0903,2025-11-22 3:07,2025-11-22 7:35,Tablespace reaching capacity threshold,Database,1-Critical,Cloud Infrastructure,Closed,1
+INC0904,2026-02-08 16:58,,Load balancer reporting unhealthy nodes,Network,4-Low,Windows Server Team,On Hold,0
+INC0905,2026-02-09 4:50,2026-02-10 0:46,Antivirus blocking legitimate application,Software,2-High,Windows Server Team,Closed,2
+INC0906,2025-12-03 18:41,2025-12-04 3:55,Production DB replication lag exceeding SLA,Database,1-Critical,Database Administration,Closed,1
+INC0907,2025-11-14 12:38,2025-11-24 6:30,Failover cluster node not rejoining,Database,3-Moderate,Application Support - ERP,Closed,1
+INC0908,2026-03-09 21:07,2026-03-13 15:50,Excel file corrupted on save,Software,4-Low,Application Support - CRM,Resolved,0
+INC0909,2026-03-21 9:55,,Intermittent packet loss to data center,Network,4-Low,Cloud Infrastructure,On Hold,0
+INC0910,2025-10-24 19:44,2025-10-25 6:57,Adobe Acrobat license expired error,Software,2-High,Storage & Backup,Resolved,0
+INC0911,2026-01-23 17:03,2026-01-23 20:51,Headset microphone not working,Hardware,1-Critical,Storage & Backup,Closed,1
+INC0912,2026-01-22 16:25,2026-01-30 0:45,Database backup job failed overnight,Database,3-Moderate,Linux Server Team,Closed,0
+INC0913,2026-01-16 20:17,2026-01-20 0:31,Chrome browser freezing on launch,Software,4-Low,Windows Server Team,Closed,0
+INC0914,2026-03-09 11:37,2026-03-06 19:09,Guest WiFi authentication failing,Network,4-Low,Security Operations,Closed,0
+INC0915,2025-12-13 12:36,2025-12-15 7:41,Keyboard keys unresponsive,Hardware,4-Low,Linux Server Team,Closed,1
+INC0916,2026-01-21 6:53,2026-01-23 3:07,Monitor flickering intermittently,Hardware,3-Moderate,Desktop Support,Closed,0
+INC0917,2026-03-24 21:46,2026-03-29 9:59,Cannot reach internal SharePoint site,Network,4-Low,Security Operations,Resolved,0
+INC0918,2026-01-04 9:42,2026-01-05 2:42,Chrome browser freezing on launch,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0919,2025-12-30 17:08,2026-01-01 18:12,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Service Desk - Tier 1,Closed,1
+INC0920,2026-01-14 23:54,,Failover cluster node not rejoining,Database,3-Moderate,Application Support - CRM,On Hold,0
+INC0921,2026-04-01 21:25,2026-04-03 14:15,Cannot reach internal SharePoint site,Network,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0922,2026-02-09 5:21,2026-02-09 15:31,Outlook crashing on startup,Software,3-Moderate,Desktop Support,Closed,0
+INC0923,2025-12-21 5:20,,VPN tunnel dropping every 15 minutes,Network,2-High,Network Operations,On Hold,0
+INC0924,2026-03-06 14:35,2026-03-09 3:58,Hard drive making clicking noise,Hardware,3-Moderate,Application Support - ERP,Resolved,0
+INC0925,2026-04-15 16:20,2026-04-17 18:11,Headset microphone not working,Hardware,4-Low,Service Desk - Tier 1,Resolved,0
+INC0926,2025-11-30 6:54,,Network printer unreachable from VLAN,Network,4-Low,Cloud Infrastructure,On Hold,0
+INC0927,2026-03-25 17:00,2026-03-25 1:08,VPN tunnel dropping every 15 minutes,Network,1-Critical,Network Operations,Closed,0
+INC0928,2025-11-21 16:20,2025-11-23 0:17,SAP GUI timeout errors,Software,3-Moderate,Application Support - CRM,Resolved,0
+INC0929,2026-03-08 21:14,2026-03-10 6:02,Windows update failing repeatedly,Software,3-Moderate,Cloud Infrastructure,Resolved,1
+INC0930,2026-03-01 19:51,2026-03-06 17:31,Failover cluster node not rejoining,Database,3-Moderate,Application Support - ERP,Closed,0
+INC0931,2025-11-28 6:00,2025-11-30 7:21,Tablespace reaching capacity threshold,Database,3-Moderate,Database Administration,Closed,1
+INC0932,2026-01-08 1:49,2026-01-09 9:45,Monitor flickering intermittently,Hardware,4-Low,Cloud Infrastructure,Closed,0
+INC0933,2026-03-05 0:23,2026-03-05 14:06,Docking station not detecting external display,Hardware,2-High,Network Operations,Closed,0
+INC0934,2026-01-03 3:29,2026-01-08 0:46,Keyboard keys unresponsive,Hardware,4-Low,End User Computing,Closed,0
+INC0935,2026-03-09 3:29,2026-03-10 14:12,Tablespace reaching capacity threshold,Database,2-High,Service Desk - Tier 1,Closed,1
+INC0936,2025-12-10 17:55,2025-12-14 21:45,Slow query performance on reporting DB,Database,4-Low,Service Desk - Tier 1,Resolved,0
+INC0937,2026-03-15 4:29,2026-03-16 22:44,Laptop battery draining rapidly,Hardware,3-Moderate,Network Operations,Closed,0
+INC0938,2026-04-02 20:59,2026-04-06 6:13,Connection pool exhaustion alerts,Database,2-High,End User Computing,Resolved,0
+INC0939,2026-02-23 9:25,2026-02-28 4:39,Monitor flickering intermittently,Hardware,4-Low,End User Computing,Closed,0
+INC0940,2026-02-19 6:49,,Mouse cursor freezing,Hardware,3-Moderate,Application Support - CRM,On Hold,0
+INC0941,2026-01-15 14:18,2026-01-16 10:11,Webcam not recognized by system,Hardware,3-Moderate,End User Computing,Resolved,0
+INC0942,2025-11-16 22:45,2025-11-17 1:40,DNS resolution failures on finance subnet,NW,1-Critical,Service Desk - Tier 1,Closed,0
+INC0943,2026-01-20 4:45,2026-01-21 9:47,Laptop will not power on,Hardware,3-Moderate,Desktop Support,Resolved,0
+INC0944,2026-02-03 2:25,2026-02-09 8:59,Index corruption detected on customer table,Database,4-Low,Application Support - ERP,Closed,0
+INC0945,2026-03-17 13:14,2026-03-17 23:08,Adobe Acrobat license expired error,Software,3-Moderate,Application Support - CRM,Closed,0
+INC0946,2025-12-07 7:52,2025-12-07 22:37,Webcam not recognized by system,Hardware,2-High,Desktop Support,Resolved,3
+INC0947,2026-03-14 8:50,2026-03-14 23:50,Cannot reach internal SharePoint site,Network,2-High,Network Operations,Resolved,0
+INC0948,2026-02-23 6:57,2026-02-24 16:03,Laptop battery draining rapidly,Hardware,3-Moderate,Desktop Support,Resolved,1
+INC0949,2026-02-03 4:24,2026-02-03 23:39,Antivirus blocking legitimate application,Software,2-High,Windows Server Team,Closed,2
+INC0950,2026-02-18 3:26,2026-02-19 10:35,Deadlock errors on orders table,Database,1-Critical,Database Administration,Closed,0
+INC0951,2026-03-25 3:06,2026-03-25 8:41,Hard drive making clicking noise,Hardware,1-Critical,Security Operations,Resolved,0
+INC0952,2025-12-18 15:23,2026-01-01 23:16,Deadlock errors on orders table,Database,4-Low,Cloud Infrastructure,Closed,2
+INC0953,2026-04-17 5:40,,Keyboard keys unresponsive,Hardware,4-Low,Desktop Support,On Hold,0
+INC0954,2026-01-31 16:17,2026-02-01 4:47,Mouse cursor freezing,HW,3-Moderate,Service Desk - Tier 1,Closed,0
+INC0955,2026-03-29 8:37,2026-03-31 19:30,Mouse cursor freezing,Hardware,4-Low,Linux Server Team,Closed,0
+INC0956,2026-02-12 8:07,2026-02-14 23:45,Printer paper jam recurring,Hardware,4-Low,Storage & Backup,Resolved,0
+INC0957,2026-03-09 10:33,2026-03-10 11:12,Laptop battery draining rapidly,Hardware,3-Moderate,Security Operations,Closed,0
+INC0958,2025-12-04 16:02,2025-12-05 7:18,Headset microphone not working,Hardware,2-High,Linux Server Team,Closed,0
+INC0959,2025-11-16 17:06,2025-11-17 23:28,Tablespace reaching capacity threshold,Database,2-High,Database Administration,Resolved,0
+INC0960,2026-01-09 13:22,,Firewall blocking required application port,Network,3-Moderate,Application Support - CRM,On Hold,0
+INC0961,2026-02-01 8:55,2026-02-02 23:59,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Network Operations,Closed,0
+INC0962,2025-12-15 19:02,2025-12-16 10:41,Headset microphone not working,Hardware,3-Moderate,End User Computing,Closed,1
+INC0963,2026-02-21 9:14,2026-02-21 21:32,PowerBI report failing to refresh,Software,3-Moderate,Security Operations,Closed,2
+INC0964,2026-03-26 13:32,2026-03-28 15:11,Laptop battery draining rapidly,Hardware,3-Moderate,Desktop Support,Closed,2
+INC0965,2026-04-02 1:18,2026-04-02 23:25,DNS resolution failures on finance subnet,Network,2-High,Application Support - ERP,Closed,0
+INC0966,2026-03-25 3:44,2026-03-29 22:42,Deadlock errors on orders table,Database,4-Low,Application Support - CRM,Closed,0
+INC0967,2026-04-12 21:28,2026-04-16 10:25,Laptop will not power on,Hardware,4-Low,Desktop Support,Closed,0
+INC0968,2026-01-30 14:20,2026-01-31 7:15,Load balancer reporting unhealthy nodes,Network,2-High,Database Administration,Closed,0
+INC0969,2025-12-23 17:36,2025-12-25 10:46,Docking station not detecting external display,Hardware,4-Low,Service Desk - Tier 1,Closed,1
+INC0970,2026-03-22 23:25,2026-03-24 3:05,Firewall blocking required application port,Network,3-Moderate,Desktop Support,Closed,0
+INC0971,2026-03-20 13:40,2026-03-20 21:06,PowerBI report failing to refresh,Software,2-High,End User Computing,Closed,0
+INC0972,2026-01-22 9:35,,Tablespace reaching capacity threshold,Database,2-High,Database Administration,On Hold,0
+INC0973,2026-02-09 3:06,2026-02-11 11:53,Intermittent packet loss to data center,Network,3-Moderate,Windows Server Team,Closed,0
+INC0974,2025-12-02 6:11,2025-12-03 6:19,Scheduled maintenance plan did not run,Database,1-Critical,Application Support - ERP,Resolved,0
+INC0975,2025-11-06 4:51,2025-11-07 19:33,Outlook crashing on startup,Software,3-Moderate,Cloud Infrastructure,Closed,0
+INC0976,2025-11-03 6:26,2025-11-17 13:36,Database backup job failed overnight,Database,4-Low,Storage & Backup,Resolved,0
+INC0977,2026-02-11 5:26,2026-02-28 15:07,Scheduled maintenance plan did not run,Database,4-Low,Cloud Infrastructure,Resolved,0
+INC0978,2026-03-09 21:22,2026-03-10 3:33,Chrome browser freezing on launch,Software,1-Critical,Desktop Support,Resolved,0
+INC0979,2025-12-12 1:08,,Tablespace reaching capacity threshold,Database,2-High,Application Support - CRM,On Hold,2
+INC0980,2026-01-25 4:35,2026-01-25 16:26,Antivirus blocking legitimate application,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0981,2026-02-22 22:23,2026-02-23 12:17,VPN tunnel dropping every 15 minutes,Network,3-Moderate,Cloud Infrastructure,Resolved,1
+INC0982,2025-11-28 19:36,2025-11-30 7:10,Keyboard keys unresponsive,Hardware,3-Moderate,Linux Server Team,Resolved,0
+INC0983,2026-01-14 17:07,2026-01-18 4:59,Unable to connect to corporate WiFi,Network,4-Low,Network Operations,Resolved,0
+INC0984,2026-02-03 2:59,2026-02-05 12:16,Network printer unreachable from VLAN,Network,3-Moderate,Network Operations,Resolved,0
+INC0985,2026-04-04 18:34,2026-04-05 1:07,Chrome browser freezing on launch,Software,2-High,Windows Server Team,Closed,0
+INC0986,2025-12-03 22:23,,Adobe Acrobat license expired error,Software,2-High,Service Desk - Tier 1,On Hold,1
+INC0987,2026-04-09 4:59,2026-04-20 18:00,Slow query performance on reporting DB,Database,4-Low,Application Support - CRM,Closed,0
+INC0988,2025-11-23 9:05,2025-11-25 0:23,Adobe Acrobat license expired error,Software,3-Moderate,Application Support - ERP,Closed,0
+INC0989,2025-11-13 11:55,2025-11-14 20:14,Monitor flickering intermittently,Hardware,3-Moderate,Desktop Support,Closed,2
+INC0990,2026-03-07 21:53,2026-03-10 19:08,Docking station not detecting external display,Hardware,4-Low,Security Operations,Closed,1
+INC0991,2025-11-16 14:16,2025-11-16 21:05,Printer paper jam recurring,Hardware,2-High,End User Computing,Resolved,0
+INC0992,2025-11-25 15:52,2025-11-29 21:39,Slow network performance in HQ floor 3,Network,4-Low,Cloud Infrastructure,Closed,0
+INC0993,2025-12-13 5:50,,Antivirus blocking legitimate application,Software,3-Moderate,Application Support - ERP,On Hold,0
+INC0994,2026-04-18 3:34,,Guest WiFi authentication failing,network,1-Critical,Service Desk - Tier 1,On Hold,0
+INC0995,2025-11-09 15:19,,Windows update failing repeatedly,Software,1-Critical,End User Computing,On Hold,0
+INC0996,2026-01-16 6:29,,Database backup job failed overnight,Database,3-Moderate,Security Operations,On Hold,1
+INC0997,2025-11-16 15:26,,Hard drive making clicking noise,Hardware,3-Moderate,Cloud Infrastructure,On Hold,0
+INC0998,2025-11-29 20:45,,Keyboard keys unresponsive,Hardware,3-Moderate,Desktop Support,On Hold,0
+INC0999,2026-01-09 4:01,2026-01-09 20:19,Teams audio not working in meetings,Software,2-High,Application Support - ERP,Closed,2
+INC1000,2026-02-28 3:25,2026-02-28 22:09,Unable to connect to corporate WiFi,Network,2-High,Cloud Infrastructure,Closed,2
