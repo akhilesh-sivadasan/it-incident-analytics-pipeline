@@ -62,7 +62,7 @@ Automated pipeline built in **Excel Power Query** (M language):
 Data-layer values are normalized to **lowercase snake_case** for SQL-compatible downstream use; the presentation layer applies **title-case** formatting for readability. This keeps the model portable if the pipeline is later migrated to a SQL warehouse.
 
 ### Dataset
-1,000 synthetic incident records modeled on realistic ITSM distributions, with intentionally embedded data quality issues — inconsistent categoricals, negative-duration timestamps, and nulls for active tickets — designed to **stress-test the ETL pipeline** and simulate the messiness of raw helpdesk exports. Generated via Python; generator script included in `/data`.
+1,000 synthetic incident records modeled on realistic ITSM distributions, with intentionally embedded data quality issues — inconsistent categoricals, negative-duration timestamps, and nulls for active tickets — designed to **stress-test the ETL pipeline** and simulate the messiness of raw helpdesk exports.
 
 ---
 
